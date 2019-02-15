@@ -1,0 +1,49 @@
+﻿nArAyaNam namaskRtya naraM caiva narottamaM devIM sarasvatIM caiva tato jayam udIrayet
+ナーラーヤナへの,またナラへの,最上の人への,また女神サラスヴァティーへの帰命に彼から勝利を顕現させる.
+nArAyaNam 男性名詞nArAyaNa単数対格
+namaskRtya 女性名詞namaskRti(帰命)単数具格?
+naram 男性名詞nara単数対格
+ca ~もまた
+eva まさに
+narottamam 男性名詞nara(人)-形容詞ud(よい)最上級男性単数対格
+devIm 女性名詞devI(女神)単数対格
+sarasvatIm 女性名詞sarasvatI単数対格
+tataH 人称代名詞三人称従格
+jayam 形容詞jaya(勝利)
+udIrayet 動詞ud-Ir(起きる)使役願望法能動態三人称単数
+
+lomaharSaNaputra ugrazravAH sUtaH paurANiko naimiSAraNye zaunakasya kulapater dvAsaza vArSike satre
+古代の物語を熟知するローマハルシャナの子ウグラシュラヴァスは鼓舞された.シュナカ学派の長の,12の雨期を持つナイミシャの森において.
+lomaharSaNaputraH 男性名詞lomaharSaNa-男性名詞putra(息子)単数主格
+ugrazravAH 男性名詞ugrazravas単数主格
+sUtaH 動詞sU(鼓舞する)過去受動分詞男性単数主格
+paurANikaH 形容詞paurANika(古代の物語を熟知した)男性単数主格
+naimiSAraNye naimiSa-形容詞AraNya(森に住む)男性単数処格
+zaunakasya zaunaka(zunaka(ヴェーダに関する多数の著作を残した有名な学匠)に属する者)単数属格
+kulpateH 男性名詞kula-pati(家族の長)単数属格
+dvAdaza 数詞(12)
+vArSike 形容詞vArSika(雨期の)単数処格
+satre ?
+
+samAsInAn abhyagacchad brahmarSIn saMzitavratAn vinayAvanato bhUtvA kadA cit sUtanandanaH
+彼は結跏趺坐する者たちを訪ねた.厳しい修行をするバラモンの聖者たちの所へ.彼は慎み深く頭を下げつつ,いつか鼓舞されて喜んだ.
+samAsInAn 接頭辞sam(完全に)-第二類動詞As(座る)現在反射分詞男性複数対格
+abhyagacchat 動詞abhi-gam(こちらへ行く)過去能動態三人称単数
+brahmarSIn 男性名詞brahmarSi(バラモンの聖者)複数対格
+saMzitavratAn 接頭辞sam(完全に)-動詞zA(鋭くする)過去受動分詞-vrata(行)複数対格
+vinayAvanataH 形容詞vinayAvanata(慎み深く頭を下げた)男性単数主格
+bhUtvA 動詞bhU(なる)絶対詞
+kadA cit 疑問詞(いつ)
+sUtanandanaH 動詞sU(鼓舞する)過去受動分詞-男性名詞nanda(喜び)単数主格
+
+tam Azramam anuprAptaM naimiSAraNyavAsinaH citrAH zrotuM kathAs tatra parivavrus tapasvinaH
+苦行者の住処に到達した彼の話を,ナイミシャの森に住む輝ける聖者たちは聞くことにした.
+tam 人称代名詞三人称中性単数対格
+Azramam 中性名詞Azrama(苦行者の住処)単数対格
+anuprAptam 動詞anu-pra-Ap(到達する)過去受動分詞中性単数対格
+naimiSAraNyavAsinaH 形容詞mainiSa-AraNya-vAsin(ナイミシャの森に住む)男性複数主格
+citrAH 形容詞citra(輝ける)男性複数主格
+zrotum 動詞zru(聞く)不定詞
+kathAH 女性名詞kathA(話)複数対格
+tatra 副詞(ここに)
+parivavruH 動詞pari-vR(選ぶ)完了能動態三人称複数
