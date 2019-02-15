@@ -37,7 +37,7 @@ kadA cit 疑問詞(いつ)
 sUtanandanaH 動詞sU(鼓舞する)過去受動分詞-男性名詞nanda(喜び)単数主格
 
 tam Azramam anuprAptaM naimiSAraNyavAsinaH citrAH zrotuM kathAs tatra parivavrus tapasvinaH
-苦行者の住処に到達した彼の話を,ナイミシャの森に住む輝ける聖者たちは聞くことにした.
+苦行者の住処に到達した彼の話を,ナイミシャの森に住む輝ける苦行者たちは聞くことにした.
 tam 人称代名詞三人称中性単数対格
 Azramam 中性名詞Azrama(苦行者の住処)単数対格
 anuprAptam 動詞anu-pra-Ap(到達する)過去受動分詞中性単数対格
@@ -47,3 +47,4 @@ zrotum 動詞zru(聞く)不定詞
 kathAH 女性名詞kathA(話)複数対格
 tatra 副詞(ここに)
 parivavruH 動詞pari-vR(選ぶ)完了能動態三人称複数
+tapasvinaH 男性名詞tapasvin(苦行者)複数主格
