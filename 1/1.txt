@@ -48,3 +48,66 @@ kathAH 女性名詞kathA(話)複数対格
 tatra 副詞(ここに)
 parivavruH 動詞pari-vR(選ぶ)完了能動態三人称複数
 tapasvinaH 男性名詞tapasvin(苦行者)複数主格
+
+abhivAdyamunIMs tAMs tu sarvAn eva kRtAJjalir apRcchat sa tapovRddhiM sadbhiH caivAbhinanditaH
+崇拝すべきその賢人たち全員に合掌して彼は問うた.そして彼は真実によって喜んだ.
+abhivAdyamunIn 動詞abhi-vand(崇拝する)未来受動分詞-男性名詞muni(賢人)複数対格
+tAn 人称代名詞三人称男性複数対格
+tu 不変辞(そして)
+sarvAn 形容詞sarva(全ての)男性複数対格
+eva 不変辞(まさに)
+kRtAJjaliH 形容詞kRtAnjali(為格に合掌する)男性単数主格
+apRcchat 第六類動詞prach(問う)過去能動態三人称単数
+sa 人称代名詞三人称男性単数主格
+tapovRddhim 形容詞tapovRddhi(苦行に明け暮れる)男性単数対格
+sadbhiH 第二類動詞as(ある)現在能動分詞男性複数具格
+ca 副詞(~もまた)
+abhinanditaH 動詞abhi-nand(喜ぶ)過去受動分詞男性単数主格
+
+atha teSUpaviSTeSu sarveSv eva tapasviSu nirdiSTam AsanaM bheje vinayAl lomaharSaNiH
+その時彼ら苦行者全員にローマハルシャナの子は席をあてがわれた.
+atha 副詞(その時)
+teSu 人称代名詞三人称男性複数処格
+upaviSTeSu 動詞upa-viS(活動する)過去受動分詞男性複数処格
+sarveSu 形容詞sarva(全ての)男性複数主格
+eva 不変辞(まさに)
+tapasviSu 男性名詞tapasvin(苦行者)複数処格
+nirdiSTam 動詞nir-diz(指定する)過去受動分詞
+Asanam 中性名詞Asana(座)単数
+bheje ?
+vinayAt 男性名詞vinaya(思慮)単数従格
+lomaharSaniH 男性名詞lomaharSani単数主格
+
+sukhAsInaM tatas taM tu vizrAntam upalakSya ca athApRcchad RSis tatra kaz cit prastAvayan kathAH
+彼がくつろいで座り休まったのを見て,詩人の一人がどんな話なのか尋ねた.
+sukhAsInam 形容詞sukhAsIna(くつろいで座っている)男性単数対格
+tataH 人称代名詞三人称従格
+tam 人称代名詞三人称男性単数対格
+tu 副詞(そして)
+vizrAntam 動詞vi-zram(休む)過去受動分詞男性単数対格
+upalakSya 動詞upa-lakS(対格を対格とみなす)命令法受動態二人称単数?
+ca 副詞(~もまた)
+atha 副詞(その時)
+apRcchat 第六類動詞prach(問う)過去能動態三人称単数
+RSiH 男性名詞RSi(詩人)単数主格
+tatra 副詞(ここに)
+kaz cit 不定代名詞kiM cit(何か)男性単数主格
+prastAvayan 男性名詞prastAva(話題)
+kathAH 女性名詞kathA(話)
+
+kRta Agamyate saute kva cAyaM vihRtas tvayA kAlaH kamalapatrAkSa zaMsaitat pRcchato mama
+あなたは今どこを目指して行くのか.蓮の花弁のような眼を持つ者よ,問うている私に答えよ.
+なされたもの,運び去られたもの,正しい時に向かって何かが来る.それは何だ?それはあなただ.
+kRtaH 動詞kR(なす)過去受動分詞男性単数主格
+Agamyate 動詞A-gam(来る)現在受動態三人称単数
+saute 動詞sU(鼓舞する)過去受動分詞sUtaに属するものsauta単数処格
+kva 疑問代名詞処格
+cAyaM 男性名詞cAya(知覚)?単数対格
+vihRtaH 動詞vi-hR(運び去る)過去受動分詞男性単数主格
+tvayA 人称代名詞二人称単数具格
+kAlaH 男性名詞kAla(正しい時)単数主格
+kamalapatrAkSa 形容詞kamalapatrAkSa(蓮の花弁のような眼の)単数呼格
+zaMsa 動詞zaMs(告げる)命令法能動態二人称単数
+etat 近称代名詞中性単数主格
+pRcchataH 第六類動詞prach(問う)現在能動分詞男性単数属格
+mama 人称代名詞一人称単数属格
