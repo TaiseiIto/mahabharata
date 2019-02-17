@@ -110,3 +110,31 @@ zaMsa 動詞zaMs(告げる)命令法能動態二人称単数
 etat 近称代名詞中性単数主格
 pRcchataH 第六類動詞prach(問う)現在能動分詞男性単数属格
 mama 人称代名詞一人称単数属格
+
+以下質問に対してウグラシュラヴァスが答えているところ
+
+janamejayasya rAjarSeH sarpasatre mahAtmanaH samIpe pArthivendrasya samyak pArikSitasya ca
+蛇族を縛る者のために,詩人の王ジャナメージャヤの偉大な魂,地上に現れたるインドラ,パリクシットの子孫に関する
+janamejayasya 男性名詞janamejaya(人名)単数属格
+rAjarSeH 男性名詞rAja(王)-男性名詞RSi(詩人)単数属格
+sarpasatre 形容詞sarpa(蛇族の)-動詞si(縛る)行為者男性単数為格?
+mahAtmanaH 接頭辞mahA(偉大な)-男性名詞Atman(魂)単数属格
+samIpe 形容詞samIpa
+pArthivendrasya 形容詞pArthiva(地上の)-男性名詞indra単数属格
+samyak 形容詞samyaJc(完全な)中性単数主格
+pArikSitasya 男性名詞parikSitに属するもの(janamejaya)単数属格
+ca 不変辞~もまた
+
+kRSNadvaipAyana proktAH supuNyA vividhAH kathAH kathitAz cApi vidhivad yA vaizampAyanena vai
+宣言されし非常に優れた諸々の物語を,クリシュナドヴァイパーヤナよ,まさにヴァイシャンパーヤナによって,
+kRSNadvaipAyana 男性名詞kRSNadvaipAyana(vyAsaの称)単数呼格
+proktAH 動詞pra-vac(宣言する)過去受動分詞女性複数対格
+supuNyAH 形容詞supuNya(非常に優れた)女性複数対格
+vividhAH 形容詞vividha(諸々の)女性複数対格
+kathAH 女性名詞kathA(話)複数対格
+kathitAH 女性名詞kathitA(話)複数対格
+cApi 不変辞~もまた
+vidhivat 副詞(正しく)
+yAH 関係代名詞女性複数対格
+vaizampAyanena 男性名詞vaizampAyana(vyAsaの弟子)単数具格
+vai 先行する語を強調する不変辞
