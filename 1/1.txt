@@ -138,3 +138,16 @@ vidhivat 副詞(正しく)
 yAH 関係代名詞女性複数対格
 vaizampAyanena 男性名詞vaizampAyana(vyAsaの弟子)単数具格
 vai 先行する語を強調する不変辞
+
+zrutvAhaM tA vicitrArthA mahAbhAratasaMzritA bahUni saMparikramyatIrthAny AyatanAni ca
+私は偉大なるバラタ族に関するさまざま物語を,訪れるべき道や場所のことを聞き,
+zrutvA 動詞zru(聞く)絶対詞
+aham 人称代名詞一人称単数主格
+tAH 人称代名詞女性複数対格
+vicitrArthAH 形容詞vicitra(多彩な)-名詞artha(目的)女性複数主格
+mahAbhAratasaMzritAH 接頭辞mahA(偉大な)-形容詞bhArata(バラタ族の)-動詞sam-zri(一緒になる)過去受動分詞女性複数対格
+bahUni 形容詞bahu(豊富な)中性複数対格
+saMparikramyatIrthAni 動詞sam-pari-kram(歩き回る)未来受動分詞-中性名詞tIrtha(道)複数対格
+AyatanAni 中性名詞Ayatana(場所)複数対格
+ca 不変辞~もまた
+
