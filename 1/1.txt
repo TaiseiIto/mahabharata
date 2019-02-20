@@ -168,3 +168,18 @@ pANDavAnAm 男性名詞pANDuに属する複数属格
 kurUNAm 男性名詞kuru(クル族)複数属格
 sarveSAM 形容詞sarva(全ての)複数属格
 mahIkSitAm 男性名詞mahIkSit(王)複数属格
+
+didRkSur AgatAs tasmAt samIpaM bhavatAm iha AyuSmantaH sarva eva brahmabhUtA hi me matAH
+そこから近くに来た者達が,ここにいるあなたたち長寿のバラモンたち全員が私の前に現れた.
+didRkSuH 動詞dRz(主格として属格に現れる)完了能動態三人称複数
+AgatAH 動詞A-gam(来る)過去受動分詞男性複数主格
+tasmAt 人称代名詞三人称男性単数従格
+samIpam 形容詞samIpa(近い)
+bhavatAm 人称代名詞二人称複数属格
+iha 副詞(ここで)
+AyuSmantaH 形容詞AyuSmat(長寿の)男性複数主格
+sarve 形容詞sarva(全ての)男性複数主格
+brahmabhUtAH 形容詞brahmabhUta(バラモンとなる)男性複数主格
+hi 不変辞(確かに)
+me 人称代名詞一人称単数属格
+matAH 動詞man(思う)過去受動分詞男性複数主格
