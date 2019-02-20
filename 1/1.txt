@@ -151,3 +151,16 @@ saMparikramyatIrthAni 動詞sam-pari-kram(歩き回る)未来受動分詞-中性
 AyatanAni 中性名詞Ayatana(場所)複数対格
 ca 不変辞~もまた
 
+samantapaJcakaM nAma puNyaM dvijaniSevitaM gatavAn asmi taM dezaM yuddhaM yatrAbhavat purA
+再生族がしばしば訪れた吉兆の地サマンタパンチャカを訪れた.かつて戦争のあったその地を.
+samantapaJcakam 中性名詞(地名)samantapaJcaka単数対格
+nAma 中性名詞nAman(名前)単数対格
+puNyam 形容詞puNya(吉兆の)中性単数対格
+dvijaniSevitam 数詞dvi(2)-動詞jan(生まれる)動詞ni-sev(通う)過去受動分詞中性単数対格
+gatavAn 動詞gam(行く)過去能動分詞男性単数主格
+tam 人称代名詞三人称男性単数対格
+dezam 男性名詞deza(地方)単数対格
+yuddham 動詞yudh(戦う)過去受動分詞男性単数対格
+yatra 関係代名詞処格
+abhavat 動詞bhU(なる)過去能動態三人称単数
+purA 副詞(かつて)
