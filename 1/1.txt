@@ -111,7 +111,7 @@ etat 近称代名詞中性単数主格
 pRcchataH 第六類動詞prach(問う)現在能動分詞男性単数属格
 mama 人称代名詞一人称単数属格
 
-以下質問に対してウグラシュラヴァスが答えているところ
+ウグラシュラヴァスの言葉
 
 janamejayasya rAjarSeH sarpasatre mahAtmanaH samIpe pArthivendrasya samyak pArikSitasya ca
 蛇族を縛る者のために,詩人の王ジャナメージャヤの偉大な魂,地上に現れたるインドラ,パリクシットの子孫に関する
@@ -183,3 +183,35 @@ brahmabhUtAH 形容詞brahmabhUta(バラモンとなる)男性複数主格
 hi 不変辞(確かに)
 me 人称代名詞一人称単数属格
 matAH 動詞man(思う)過去受動分詞男性複数主格
+
+asmin yajJe mahAbhAgAH sUryapAvakavarcasaH kRtAbhiSekAH zucayaH kRtajapyA hutAgnayo bhavanta Asate svasthA bravImi kim ahaM dvijAH
+この護摩の中で大いに祝福された太陽の光のごとき清らかな祭火である安穏なあなたたちが座っている.私は何を語るのか.再生族たちよ.
+asmin 近称代名詞男性単数処格
+yajJe 男性名詞yajJa(祭式)単数処格
+mahAbhAgAH 形容詞mahAbhAga(大いに祝福された)男性複数主格
+sUryapAvakavarcasaH 男性名詞sUrya(太陽)-形容詞pAvaka(明るい)-中性名詞varcas(光)単数属格
+kRtAbhiSekAH 形容詞kRtAbhiSeka(浄められた)男性複数主格
+zucayaH 形容詞zuci(清い)男性複数主格
+kRtajapyAH 動詞kR(なす)過去受動分詞-動詞jap(つぶやく)未来受動分詞
+hutAgnayaH 男性名詞hutAgni(祭火)複数主格
+bhavantaH 人称代名詞二人称男性複数主格
+Asate 第二類動詞As(座る)現在反射態三人称複数
+svasthAH 形容詞svastha(安穏な)男性複数主格
+bravImi 第二類動詞brU(語る)現在能動態一人称単数
+kim 疑問代名詞中性単数対格
+aham 人称代名詞一人称単数主格
+dvijAH 形容詞dvija(再生族)男性複数呼格
+
+purANasaMzritAH puNyAH kathA vA dharmasaMzritA itivRttaM narendrANAm RSINAM ca mahAtmanAm
+古代の出来事や法に関する優れた物語を,王たち,詩人たち,偉大な魂たちの物語を.
+purANasaMzritAH 形容詞purANa(古代の)-動詞sam-zri(一緒になる)過去受動分詞女性複数
+puNyAH 形容詞puNya(優れた)女性複数対格
+kathAH 女性名詞kathA(物語)複数対格
+vA 不変辞(または)
+dharmasaMzritAH 男性名詞dharma(法)-動詞sam-zri(一緒になる)過去受動分詞女性複数
+itivRttaM 中性名詞itivRtta(物語)単数対格
+narendrANAm 男性名詞nR(男)-indra(主)複数属格
+RSINAm 男性名詞RSi(詩人)複数属格
+mahAtmanAm 接頭辞mahA(偉大な)-男性名詞Atman(魂)複数属格
+
+聖仙たちの言葉
