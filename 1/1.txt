@@ -185,7 +185,7 @@ me 人称代名詞一人称単数属格
 matAH 動詞man(思う)過去受動分詞男性複数主格
 
 asmin yajJe mahAbhAgAH sUryapAvakavarcasaH kRtAbhiSekAH zucayaH kRtajapyA hutAgnayo bhavanta Asate svasthA bravImi kim ahaM dvijAH
-この護摩の中で大いに祝福された太陽の光のごとき清らかな祭火である安穏なあなたたちが座っている.私は何を語るのか.再生族たちよ.
+この護摩の中で大いに祝福された太陽の光のごとき清らかな語り継がれるべき祭火である安穏なあなたたちが座っている.私は何を語るのか.再生族たちよ.
 asmin 近称代名詞男性単数処格
 yajJe 男性名詞yajJa(祭式)単数処格
 mahAbhAgAH 形容詞mahAbhAga(大いに祝福された)男性複数主格
@@ -215,3 +215,27 @@ RSINAm 男性名詞RSi(詩人)複数属格
 mahAtmanAm 接頭辞mahA(偉大な)-男性名詞Atman(魂)複数属格
 
 聖仙たちの言葉
+
+dvaipAyanena yat proktaM purANaM paramarSiNA surair brahmarSibhiz caiva zrutvA yad abhipUjitam
+最高の詩人ドヴァイパーヤナ,神々,バラモンの聖者たちによって語られた尊敬に値する古代の物語を聞き,
+dvaipAyanena 男性名詞dvaipAyana(vyAsaの称)単数具格
+yat 関係代名詞中性単数主格
+proktam 動詞pra-vac(宣言する)過去受動分詞中性単数主格
+purANam 形容詞purANa(古代の)中性単数対格
+paramarSiNA 形容詞parama(最高の)-男性名詞RSi(詩人)単数具格
+suraiH 男性名詞sura(神)複数具格
+brahmarSibhiH 男性名詞brahmarSi(バラモンの聖者)複数具格
+ca 不変辞(もまた)
+eva 不変辞(まさに)
+zrutvA 動詞zru(聞く)絶対詞
+abhipUjitam 動詞abhi-pUj(尊敬する)過去受動分詞中性単数主格
+
+tasyAkhyAnavariSThasya vicitrapadaparvaNaH sUkSmArthanyAyayuktasya vedArthair bhUSitasya ca
+その多彩な韻律で微細な法則に結びつけられた最も優れた飾られた物語の知恵の道理によって
+tasya 人称代名詞三人称男性単数属格
+AkhyAnavariSThasya 中性名詞AkhyAna(物語)-形容詞vara(優れた)最上級男性単数属格
+vicitrapadaparvaNaH 形容詞vicitra(多彩な)-男性名詞pada(歩)-中性名詞parvan(節)単数属格
+sUkSmarthanyAyayuktasya 形容詞sUkSma(微細な)-男性名詞artha(道理)-男性名詞nyAya(規則)-動詞yuj(繋ぐ)過去受動分詞男性単数属格
+vedArthaiH 男性名詞veda(知識)-男性名詞artha(道理)複数具格
+bhUSitasya 第十類動詞動詞bhUS(飾る)過去受動分詞男性単数属格
+ca 不変辞(もまた)
