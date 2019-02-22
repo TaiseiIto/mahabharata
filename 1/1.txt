@@ -239,3 +239,40 @@ sUkSmarthanyAyayuktasya 形容詞sUkSma(微細な)-男性名詞artha(道理)-男
 vedArthaiH 男性名詞veda(知識)-男性名詞artha(道理)複数具格
 bhUSitasya 第十類動詞動詞bhUS(飾る)過去受動分詞男性単数属格
 ca 不変辞(もまた)
+
+bhAratasyetihAsasya puNyAM granthArthasaMyutAM saMskAropagatAM brAhmIM nAnAzAstropabRMhitAm
+バラタ族の物語の道理に関する書物を,浄められていったブラーフミー文字を,増大する様々な教えを
+bhAratasya 男性名詞bhArata(バラタ族)単数属格
+itihAsasya 男性名詞itihAsa(物語)単数属格
+puNyAm 形容詞puNya(吉兆の)女性単数対格
+granthArthasaMyutAm 男性名詞grantha(書物)-男性名詞artha(道理)-動詞sam-yu(結びつく)過去受動分詞女性単数対格
+saMskAropagatAm 男性名詞saMskAra(浄めること)-動詞upa-gam(近づく)過去受動分詞女性単数対格
+brAhmIm 女性名詞brAhmI(ブラーフミー文字)単数対格
+nAnAzAstropabRMhitAm 副詞nAnA(さまざまに)-中性名詞zAstra(教え)-動詞upa-barh(力づける)過去受動分詞女性単数対格
+
+janamejayasya yAM rAjJo vaizampAyana uktavAn yathAvat sa RSiH tuSTyA satre dvaipAyanAjJayA
+ヴァイシャンパーヤナが語ったジャナメージャヤ王の物語をその詩人は知恵あるドヴァイパーヤナの歓喜によって
+janamejayasya 男性名詞janamejaya単数属格
+yAm 関係代名詞女性単数対格
+rAjJaH 男性名詞rAjan(王)単数属格
+vaizampAyanaH 男性名詞vaizampAyana(vyAsaの弟子)単数主格
+uktavAn 動詞vac(言う)過去能動分詞男性単数主格
+yathAvat 副詞(正しく)
+saH 人称代名詞三人称単数主格
+RSiH 男性名詞RSi(詩人)単数主格
+tuSTyA 女性名詞tuSTi(歓喜)単数具格
+satre ?
+dvaipAyanaAjJayA 男性名詞dvaipAyana女性形-形容詞jJa(熟知する)女性単数具格
+
+vedaiz caturbhiH samitAM vyAsasyAdbhutakarmaNaH saMhitAM zrotum icchAmo dharmyAM pApabhayApahAm
+ヴャーサの不可思議な行の,4つのヴェーダに続く本集を私たちは聞きたい.法にかなった悪の恐怖を取り除く物語を.
+vadaiH 男性名詞veda複数具格
+caturbhiH 数詞(4)男性複数具格
+samitAm 動詞sam-i(具格に結合する)過去受動分詞女性単数対格
+vyAsasya 男性名詞vyAsa単数属格
+adbhutakarmaNaH 形容詞adbhuta(不可思議な)-中性名詞karman(行為)単数属格
+saMhitAm 女性名詞saMhitA(本集)単数対格
+zrotum 動詞zru(聞く)不定詞
+icchAmaH 動詞iS(欲する)現在能動態一人称複数
+dharmyAm 形容詞dharmya(法にかなった)女性単数対格
+pApabhayApahAm 形容詞pApa(悪い)-形容詞bhayApaha(恐怖を取り除く)女性単数対格
