@@ -276,3 +276,57 @@ zrotum 動詞zru(聞く)不定詞
 icchAmaH 動詞iS(欲する)現在能動態一人称複数
 dharmyAm 形容詞dharmya(法にかなった)女性単数対格
 pApabhayApahAm 形容詞pApa(悪い)-形容詞bhayApaha(恐怖を取り除く)女性単数対格
+
+ウグラシュラヴァスの言葉
+
+AdyaM puruSam IzAnaM puruhUtaM puruSTutam Rtam ekAkSaraM brahmavyaktAvyaktaM sanAtanam
+多くの人々に祈願され,多くの人々に称賛された最初の人間の支配者を,唯一不滅の美しい永遠の呪文を,
+Adyam 形容詞Adya(最初の)男性単数対格
+puruSam 男性名詞puruSa(人間)単数対格
+IzAnam 第二類動詞Iz(支配する)現在反射分詞男性単数対格
+puruhUtam 副詞puru(多くの人々に)-動詞hU(祈願する)男性単数対格
+puruSTutam 副詞puru(多くの人々に)-動詞stu(称賛する)過去受動分詞男性単数対格
+Rtam 形容詞Rta(正しい)男性単数対格
+ekAkSaram 数詞eka(1)-否定接頭辞a-形容詞kSara(消滅する)男性単数対格
+brahmavyaktAvyaktam 中性名詞brahman(呪文)-動詞vi-aJj(美しくする)過去受動分詞-動詞vi-aJj過去受動分詞男性単数対格
+sanAtanam 形容詞sanAtana(永遠の)男性単数対格
+
+asac ca sac caiva ca yad vizvaM sad asataH paraM parAvarANAM sraSTAraM purANaM param avyayam
+嘘も真実も,嘘に関する全ての真実をも,過去から現在にかけて永続する不滅の創造主を,
+asat 否定接頭辞a-動詞as(ある)現在能動分詞中性単数対格
+ca 不変辞(~もまた)
+sat 動詞as(ある)現在能動分詞中性単数対格
+eva 不変辞(まさに)
+yad 関係代名詞中性単数対格
+vizvam 形容詞(全ての)中性単数対格
+asataH 否定接頭辞a-動詞as(ある)現在能動分詞中性単数属格
+param 形容詞para(向こうの)中性単数対格
+parAvarANAm 形容詞para(向こうの)-avara形容詞(近くの)男性複数属格
+sraSTAram 男性名詞sraSTR(創造主)単数対格
+purANam 形容詞purANa(古代の)男性単数対格
+avyayam 形容詞avyaya(不滅の)男性単数対格
+
+maGgalyaM maGgalaM viSNuM vareNyam anaghaM zuciM namaskRtyahRSIkeSaM carAcaraguruM harim
+選ばれるべき罪なき清き幸福な髪の逆立った崇拝されるべき黄色の走る導師ヴィシュヌ神を,
+maGgalyam 形容詞maGgalya(幸福な)男性単数対格
+maGgalam 形容詞maGgala(幸福な)男性単数対格
+viSNum 男性名詞viSNu単数対格
+vareNyam 動詞vR(選ぶ)未来受動分詞男性単数対格
+anagham 形容詞anagha(罪なき)男性単数対格
+zucim 形容詞zuci(清い)男性単数対格
+namaskRtyahRSIkeSam 動詞namas-kR(崇拝する)過去受動分詞形容詞-男性名詞hRSIkeSa(髪の逆立った)単数対格
+carAcaragurum 形容詞carAcara(走る)-男性名詞guru(導師)単数対格
+harim 形容詞hari(黄色の)男性単数対格
+
+maharSeH pUjitasyeha sarvaloke mahAtmanaH pravakSyAmi mataM kRtsnaM vyAsasyAmitatejasaH
+この世界で尊ばれた大聖者の偉大な魂を持つ彼について私は語る.ヴャーサの限りない威光の完全な思考の対象について.
+maharSeH 男性名詞maharSi(大聖者)単数属格
+pUjitasya 動詞pUj(尊ぶ)過去受動分詞男性単数属格
+iha 副詞(ここで)
+sarvaloke 形容詞sarva(全ての)-男性名詞loka(世界)単数処格
+mahAtmanaH 接頭辞mahA(偉大な)-男性名詞Atman(魂)単数属格
+pravakSyAmi 動詞pra-vac(語る)未来能動態一人称単数
+matam 動詞man(思う)過去受動分詞男性単数対格
+kRtsnam 形容詞kRtsna(完全な)男性単数対格
+vyAsasya 男性名詞vyAsa単数属格
+amitatejasaH 形容詞amita(無量の)-中性名詞tejas(威光)単数属格
