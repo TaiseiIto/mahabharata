@@ -330,3 +330,61 @@ matam 動詞man(思う)過去受動分詞男性単数対格
 kRtsnam 形容詞kRtsna(完全な)男性単数対格
 vyAsasya 男性名詞vyAsa単数属格
 amitatejasaH 形容詞amita(無量の)-中性名詞tejas(威光)単数属格
+
+AcakhyuH kavayaH ke cit saMpratyAcakSate para AkhyAsyanti tathaivAnye itihAsam imaM bhuvi
+ある賢者たちは語った.そして彼らが語った後,他の者たちがまさにこのようにこの物語を地上において語るだろう.
+AcakhyuH 動詞A-khyA(語る)完了能動態三人称複数
+kavayaH 形容詞kavi(賢い)男性複数主格
+ke cit 不定代名詞男性複数主格
+saMpratyAcakSate 動詞sam-prati-A-cakS(語る)現在反射態三人称複数
+pare 副詞(その後)
+AkhyAsyanti 動詞A-khyA(語る)未来能動態三人称複数
+tathA 副詞(そのように)
+eva 副詞(まさに)
+anye 形容詞anya(他の)男性複数主格
+itihAsam 男性名詞itihAsa(物語)単数対格
+imam 近称代名詞男性単数対格
+bhuvi 女性名詞bhU(大地)単数処格
+
+idaM tu triSu lokeSu mahajjJAnaM pratiSThitaM vistaraiz ca samAsaiz ca dhAryate yad dvijAtibhiH
+そしてその広さと繋がりによって3つの世界にまたがって立つこの偉大な知識は再生族たちによって受け継がれる.
+idam 近称代名詞中性単数主格
+tu 不変辞(そして)
+triSu 数詞(3)男性複数処格
+lokeSu 男性名詞loka(世界)複数処格
+mahajjJAnaM 形容詞mahat(偉大な)-中性名詞jJAna(知識)単数処格
+pratiSThitam 動詞prati-sthA(立つ)過去受動分詞中性単数処格
+vistaraiH 形容詞vistara(広い)複数具格
+samAsaiH 男性名詞samAsa(結合)複数具格
+dhAryate 動詞dhR(支持する)使役受動現在反射態三人称単数
+yad 関係代名詞中性単数主格
+dvijAtibhiH 形容詞dvijAti(再生族の)複数具格
+
+alaMkRtaM zubhaiH zabdaiH samayair divyamAnuSaiH chando vRttaiz ca vividhair anvitaM viduSAM priyam
+それは美しい音の決まりによって,半神族たちによって,さまざまな韻律によって賢者たちにとって心地よく飾られた.
+alaMkRtam 形容詞alaMkRta(飾られた)中性単数主格
+zubhaiH 形容詞zubha(美しい)男性複数具格
+zabdaiH 男性名詞zabda(音)複数具格
+samayaiH 男性名詞samaya(教え)複数具格
+divyamAnuSaiH 男性名詞divyamAnuSa(半神族)複数具格
+chandaH 中性名詞chandas(韻律)単数主格
+vRttaiH 中性名詞vRtta(韻律)複数具格
+vividhaiH 形容詞vividha(さまざまな)中性複数具格
+anvitam 動詞anu-i(従う)過去受動分詞中性単数主格
+viduSAm 動詞vid(知る)完了能動分詞男性複数属格
+priyam 形容詞priya(喜ばしい)中性単数主格
+
+niSprabhe 'smin nirAloke sarvatas tamasAvRte bRhad aNDam abhUd ekaM prajAnAM bIjam akSayam
+全面を暗黒に覆われたこの盲目の暗闇において肥大するひとつの卵,生きとし生けるものたちの不滅の種が出現した.
+niSprabhe 形容詞niSprabha(暗い)男性単数処格
+asmin 近称代名詞男性単数処格
+nirAloke 形容詞nirAloka(盲目の)男性単数処格
+sarvataH 副詞(全面に)
+tamasAvRte 中性名詞tamas(暗黒)-動詞A-vR(覆う)過去受動分詞男性単数処格
+bRhat 動詞barh(増大する)現在能動分詞中性単数主格
+aNDam 中性名詞aNDa(卵)単数主格
+abhUt 動詞bhU(なる)アオリスト能動態三人称単数
+ekam 数詞(1)中性単数主格
+prajAnAM 女性名詞prajA(生きとし生けるもの)複数属格
+bIjam 中性名詞bIja(種)単数主格
+akSayam 形容詞akSaya(不滅の)中性単数主格
