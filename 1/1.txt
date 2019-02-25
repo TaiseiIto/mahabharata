@@ -388,3 +388,65 @@ ekam 数詞(1)中性単数主格
 prajAnAM 女性名詞prajA(生きとし生けるもの)複数属格
 bIjam 中性名詞bIja(種)単数主格
 akSayam 形容詞akSaya(不滅の)中性単数主格
+
+yugasyAdau nimittaM tan mahaddivyaM pracakSate yasmiMs tac chrUyate satyaM jyotir brahma sanAtanam
+偉大なる天上のユガの因縁について彼らは語る.その因縁において真実の永遠の光の呪文が聞こえる.
+yugasya 中性名詞yuga単数属格
+adau 形容詞ada(~を食べる)?Adau 形容詞Ada(~を受ける)?
+nimittam 中性名詞nimitta(因縁)単数対格
+tat 人称代名詞三人称中性単数対格
+mahaddvidyam 形容詞mahat(偉大な)-女性名詞div(天)形容詞中性単数対格
+pracakSate 動詞pra-cakS(語る)現在反射態三人称複数
+yasmin 関係代名詞中性単数処格
+zrUyate 動詞zru(聞く)現在受動態三人称単数
+satyam 動詞as(ある)現在能動分詞形容詞中性単数主格
+jyotiH 中性名詞jyotis(光)単数主格
+brahma 中性名詞brahman(呪文)単数主格
+sanAtanam 形容詞sanAtana(永遠の)中性単数主格
+
+adbhutaM cApy acintyaM ca sarvatra samatAM gatam avyaktaM kAraNaM sUkSmaM yat tat sadasad Atmakam
+生じたる不可思議にして認識せらるべからざる微細な原始精神は常に同じところに向かう.それは有と無からなる.
+adbhutam 形容詞adbhuta(不可思議な)中性単数主格
+ca 不変辞(~もまた)
+api 不変辞(~もまた)
+acintyam 否定接頭辞a-動詞cit(認識する)未来受動分詞中性単数主格
+sarvatra 副詞(常に)
+samatAM 女性名詞samatA(同一であること)単数対格
+gatam 動詞gam(行く)過去受動分詞
+avyaktam 中性名詞avyakta(原始精神)単数主格
+kAraNam 形容詞kAraNa(生じる)中性単数主格
+sUkSmam 形容詞sUkSma(微細な)中性単数主格
+yat 関係代名詞中性単数主格
+tat 人称代名詞三人称中性単数主格
+sadasat 動詞as(ある)現在能動分詞-否定接頭辞a-動詞as(ある)現在能動分詞中性単数主格
+Atmakam 形容詞Atmaka(~より成る)中性単数主格
+
+yasmAt pitAmaho jajJe prabhur ekaH prajApatiH brahmA suraguruH sthAnur manuH kaH parameSThy atha
+そこにおいてひとりの優れた祖先が生まれた.生命の主であり,神々の導師であり,自立する最高の人である梵天は誰であるか.
+yasmAt 関係代名詞単数処格
+pitAmahaH 男性名詞pitAmaha(祖先)単数主格
+jajJe 動詞jan(生まれる)完了能動態三人称単数
+prabhuH 形容詞prabhu(優れた)男性単数主格
+ekaH 数詞eka(1)男性単数主格
+prajApatiH 男性名詞prajApati(生命の主)単数主格
+brahmA 男性名詞brahmA(梵天)単数主格
+suraguruH 男性名詞sura(神)-男性名詞guru(導師)単数主格
+sthAnuH 形容詞sthAnu(自立する)男性単数主格
+manuH 男性名詞manu(人)単数主格
+kaH 疑問代名詞男性単数主格
+parameSThI 形容詞parameSThin(最高の)男性単数主格
+atha 副詞(そして)
+
+pracetasas tathA dakSo dakSaputrAz ca sapta ye tataH prajAnAM patayaH prAbhavann ekaviMzatiH
+そのように賢明なダクシャとその7柱の子ら,21柱の生命の支配者たちが彼から現れた.
+pracetasaH 形容詞pracetas(賢明な)男性複数主格
+tathA 副詞(そのように)
+dakSaH 男性名詞dakSa単数主格
+dakSaputrAH 男性名詞dakSa-男性名詞putra(子)複数主格
+ca 不変辞(~もまた)
+ye 関係代名詞男性複数主格
+tataH 人称代名詞三人称従格
+prajAnAm 形容詞praja(生じる)男性複数属格
+patayaH 男性名詞pati(主)複数主格
+prAbhavan 動詞pra-bhu(現れる)過去能動態三人称複数
+ekaviMzatiH 数詞ekaviMzati(21)男性複数主格
