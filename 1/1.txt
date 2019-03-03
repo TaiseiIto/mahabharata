@@ -450,3 +450,38 @@ prajAnAm 形容詞praja(生じる)男性複数属格
 patayaH 男性名詞pati(主)複数主格
 prAbhavan 動詞pra-bhu(現れる)過去能動態三人称複数
 ekaviMzatiH 数詞ekaviMzati(21)男性複数主格
+
+puruSaz cAparameyAtmA yaM sarvam RSayo vidur vizve devAs tathAdityA vasavo 'thAzvinAv api
+詩人たちがそれに関するすべてを悟っている人間も,霊魂も,全ての神々もそのように現れた.アーディティア神群もヴァス神群も.
+puruSaH 男性名詞puruSa(人間)単数主格
+ca 不変辞(~もまた)
+aparameyAtmA 形容詞apara(後方の)-動詞mA(計る)未来受動分詞-男性名詞Atman(霊魂)単数主格
+yam 関係代名詞男性単数対格
+sarvam 形容詞sarva(全ての)男性単数対格
+RSayaH 男性名詞RSi(詩人)男性複数主格
+viduH 動詞vid(知る)完了能動態三人称複数
+vizve 形容詞vizva(全ての)男性複数主格
+devAH 男性名詞deva(神)複数主格
+tathA 副詞(そのように)
+AdityAH 女性名詞aditiに属するもの男性複数主格
+vasavaH 形容詞vasu(善い)男性複数主格
+atha 副詞(その時)
+azvinau 男性名詞azvin双数主格
+api 不変辞(~もまた)
+
+yakSAH sAdhyAH pizAcAz ca guhyakAH pitaras tathA tataH prasUtA vidvAMsaH ziSTA brahmarSayo 'malAH
+夜叉たちも,サーディア神群たちも,悪魔たちも,guhyakaたちも,父たちもそのように彼から現れた.突き動かされた覚者達,指令された穢れのないバラモンの詩人たちも.
+yakSAH 男性名詞yakSa(kubera神の従者)複数主格
+sAdhyAH 男性名詞sAdhya(サーディア神群)複数主格
+pizAcAH 男性名詞pizAca(悪魔)複数主格
+ca 不変辞(~もまた)
+guhyakAH 男性名詞guhyaka(kubera神の財宝の番人)
+pitaraH 男性名詞pitR(父)複数主格
+tathA 副詞(そのように)
+tataH 人称代名詞三人称従格
+prasUtAH 動詞pra-sU(突き動かす)過去受動分詞男性複数主格
+vidvAMsaH 動詞vid(知る)完了能動分詞男性複数主格
+ziSTAH 動詞zAs(指令する)過去受動分詞男性複数主格
+brahmarSayaH 男性名詞brahmarSi(バラモンの詩人)複数主格
+amalAH 形容詞amala(無垢な)男性複数主格
+
