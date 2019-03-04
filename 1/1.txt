@@ -452,7 +452,7 @@ prAbhavan 動詞pra-bhu(現れる)過去能動態三人称複数
 ekaviMzatiH 数詞ekaviMzati(21)男性複数主格
 
 puruSaz cAparameyAtmA yaM sarvam RSayo vidur vizve devAs tathAdityA vasavo 'thAzvinAv api
-詩人たちがそれに関するすべてを悟っている人間も,霊魂も,全ての神々もそのように現れた.アーディティア神群もヴァス神群も.
+詩人たちがそれに関するすべてを悟っている人間も,霊魂も,全ての神々もそのように(現れた).アーディティア神群もヴァス神群も.
 puruSaH 男性名詞puruSa(人間)単数主格
 ca 不変辞(~もまた)
 aparameyAtmA 形容詞apara(後方の)-動詞mA(計る)未来受動分詞-男性名詞Atman(霊魂)単数主格
@@ -470,7 +470,7 @@ azvinau 男性名詞azvin双数主格
 api 不変辞(~もまた)
 
 yakSAH sAdhyAH pizAcAz ca guhyakAH pitaras tathA tataH prasUtA vidvAMsaH ziSTA brahmarSayo 'malAH
-夜叉たちも,サーディア神群たちも,悪魔たちも,guhyakaたちも,父たちもそのように彼から現れた.突き動かされた覚者達,指令された穢れのないバラモンの詩人たちも.
+夜叉たちも,サーディア神群たちも,悪魔たちも,guhyakaたちも,父たちもそのように彼から(現れた).突き動かされた覚者達,指令された穢れのないバラモンの詩人たちも.
 yakSAH 男性名詞yakSa(kubera神の従者)複数主格
 sAdhyAH 男性名詞sAdhya(サーディア神群)複数主格
 pizAcAH 男性名詞pizAca(悪魔)複数主格
@@ -485,3 +485,33 @@ ziSTAH 動詞zAs(指令する)過去受動分詞男性複数主格
 brahmarSayaH 男性名詞brahmarSi(バラモンの詩人)複数主格
 amalAH 形容詞amala(無垢な)男性複数主格
 
+rAjarSayaz ca bahavaH sarvaiH samuditA guNair Apo dyauH pRthivI vAyur antarikSaM dizas tathA
+詩人の王たち,多くの語り継がれた者達,アーパ,天,地,風,空,方角も全ての糸によってそのように(現れた).
+rAjarSayaH 男性名詞rAja(王)-男性名詞RSi(詩人)複数主格
+bahavaH 形容詞bahu(多くの)男性複数主格
+sarvaiH 形容詞sarva(全ての)男性複数具格
+samuditAH 動詞sam-vad(語る)過去受動分詞男性複数主格
+guNaiH 男性名詞guNa(糸)複数具格
+ApaH 男性名詞Apa(神名)単数主格
+dyauH 男性名詞div(天)単数主格
+pRthivI 女性名詞pRthivI(大地)単数主格
+vAyuH 男性名詞vAyu(風)単数主格
+antarikSam 中性名詞antarikSa(空)単数主格
+dizaH 女性名詞diza(方向)複数主格
+tathA 副詞(そのように)
+
+saMvatsarartavo mAsAH pakSAho rAtrayaH kramAd yac cAnyad api tat sarvaM saMbhUtaM lokasAkSikam
+年,月,昼と夜は運行から.他のものも全て生まれて世界に現れた.
+saMvatsarartavaH 男性名詞saMvatsara(一年間)-男性名詞Rtu(期間)複数主格
+mAsAH 男性名詞mAsA(暦の月)複数主格
+pakSAhaH 男性名詞pakSa(半分)-中性名詞aha(日)男性単数主格
+rAtrayaH 女性名詞rAtri(夜)複数主格
+kramAt 男性名詞krama(運行)単数従格
+yat 関係代名詞中性単数主格
+ca 不変辞(~もまた)
+anyat 形容詞anya(他の)中性単数主格
+api 不変辞(~もまた)
+tat 人称代名詞三人称中性単数主格
+sarvam 形容詞sarva(全ての)中性単数主格
+saMbhUtam 動詞sam-bhU(生まれる)過去受動分詞中性単数主格
+lokasAkSikam 形容詞lokasAkSika(世界に目撃された)中性単数主格
