@@ -515,3 +515,31 @@ tat 人称代名詞三人称中性単数主格
 sarvam 形容詞sarva(全ての)中性単数主格
 saMbhUtam 動詞sam-bhU(生まれる)過去受動分詞中性単数主格
 lokasAkSikam 形容詞lokasAkSika(世界に目撃された)中性単数主格
+
+yad idaM dRzyate kiM cid bhUtaM sthAvarajaGgamaM punaH saMkSipyate sarvaM jagat prApte yugakSaye
+現れたそれは不動のもの,動くものである.そしてユガの終わりが到達した時に全ては集められて行く.
+yat 関係代名詞中性単数
+idam 近称代名詞中性単数
+dRzyate 動詞dRz(見る)現在受動態三人称単数
+kiM cid 不定代名詞中性単数
+bhUtam 動詞bhU(なる)過去受動分詞中性単数
+sthAvarajaGgamam 形容詞sthAvara(不動の)-形容詞jaGgama(動く)中性単数
+punaH 副詞(後に)
+saMkSipyate 動詞sam-kSip(集める)現在受動態三人称単数
+sarvam 形容詞sarva(全ての)中性単数
+jagat 動詞gA(行く)現在能動分詞中性単数
+prApte 動詞pra-Ap(到達する)過去受動分詞男性単数処格
+yugakSaye 男性名詞yugakSaya(ユガの終わり)単数処格
+
+yathartAv RtuliGgAni nAnArUpANi paryaye dRzyante tAni tAny eva tathA bhAvA yugAdiSu
+時に応じて移り変わりゆく季節が見られる.まさにそのようにユガの始まりにおいて創造があった.
+yathartau 副詞(時に応じて)
+RtuliGgAni 中性名詞RtuliGga(季節の特色)複数主格
+nAnArUpANi 形容詞nAnArUpa(多種多様の)中性複数主格
+paryaye 男性名詞paryaya(回転)単数処格
+dRzyante 動詞dRz(見る)現在受動態三人称複数
+tAni 人称代名詞三人称中性複数主格
+eva 不変辞(まさに)
+tathA 副詞(そのように)
+bhAvAH 男性名詞bhAva(なること)複数主格
+yugAdisu 中性名詞yuga-男性名詞Adi(始まり)複数処格
