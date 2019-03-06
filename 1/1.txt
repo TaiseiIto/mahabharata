@@ -543,3 +543,36 @@ eva 不変辞(まさに)
 tathA 副詞(そのように)
 bhAvAH 男性名詞bhAva(なること)複数主格
 yugAdisu 中性名詞yuga-男性名詞Adi(始まり)複数処格
+
+evam etad anAdyantaM bhUtasaMhArakArakam anAdinidhanaM loke cakraM saMparivartate
+このようにしてこの始まりも終わりもない存在の終焉と創造の車輪は世界において回転する.
+evam 副詞(このように)
+etad 近称代名詞中性単数主格
+anAdyantam 否定接頭辞an-男性名詞Adi(始まり)-中性名詞anta(終わり)単数主格
+bhUtasaMhArakArakam 動詞bhU(なる)過去受動分詞-男性名詞saMhAra(終結)-形容詞kAraka(作る)中性単数主格
+anAdinidhanam 否定接頭辞an-男性名詞Adi(始まり)-中性名詞nidhana(終末)単数主格
+loke 男性名詞loka(世界)単数処格
+cakram 中性名詞cakra(車輪)単数主格
+saMparivartate 第一類動詞sam-pari-vRt(回転する)現在反射態三人称単数
+
+trayas triMzat sahasrANi trayas triMzac chatAni ca trayas triMzac ca devAnAM sRSTiH saMkSepalakSaNA
+三万三千と三千三百と三十三の神々による創造は破壊を伴う.
+trayas triMzat sahasrANi trayas triMzat chatAni ca trayas triMzac ca 数詞(33000+3300+33)
+devAnAm 男性名詞deva(神)複数属格
+sRSTiH 女性名詞sRSTi(創造)単数主格
+saMkSepalakSanA 男性名詞saMkSepa(破壊)-形容詞lakSaNa(~を伴う)女性単数主格
+
+divaH putro bRhadbhAnuz cakSur AtmA vibhAvasuH savitA ca RcIko 'rko bhAnur AzAvaho raviH
+天の子であり,増大する光であり,眼であり,聖仙リチーカであり,燦然と輝く光である太陽
+divaH 男性名詞div(天)単数属格
+putraH 男性名詞putra(息子)単数主格
+bRhadbhAnuH 動詞barh(増大する)現在能動分詞-男性名詞bhAnu(光明)単数主格
+cakSuH 男性名詞cakSu(眼)単数主格
+AtmA 男性名詞Atman(魂)単数主格
+vibhAvasuH 形容詞vibhAvasu(燦然と輝く)男性単数主格
+savitA 男性名詞savitR(太陽神)単数主格
+RcIkaH 男性名詞RcIka(聖仙リチーカ)単数主格
+arkaH 男性名詞arka(光線)単数主格
+bhAnuH 男性名詞bhAnu(光明)単数主格
+AzAvahaH 男性名詞AzAvaha(太陽)単数主格
+raviH 男性名詞ravi(太陽)単数主格
