@@ -390,7 +390,7 @@ bIjam 中性名詞bIja(種)単数主格
 akSayam 形容詞akSaya(不滅の)中性単数主格
 
 yugasyAdau nimittaM tan mahaddivyaM pracakSate yasmiMs tac chrUyate satyaM jyotir brahma sanAtanam
-偉大なる天上のユガの始まりについて彼らは語る.その因縁において真実の永遠の光の呪文が聞こえる.
+偉大なる天上のユガの始まりについて彼らは語る.その始まりにおいて真実の永遠の光の呪文が聞こえる.
 yugasya 中性名詞yuga単数属格
 Adau 男性名詞Adi(始まり)単数処格
 nimittam 中性名詞nimitta(因縁)単数対格
