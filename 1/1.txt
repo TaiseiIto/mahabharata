@@ -576,3 +576,41 @@ arkaH 男性名詞arka(光線)単数主格
 bhAnuH 男性名詞bhAnu(光明)単数主格
 AzAvahaH 男性名詞AzAvaha(太陽)単数主格
 raviH 男性名詞ravi(太陽)単数主格
+
+putrA vivasvataH sarve mahyas teSAM tathA varo devabhrAT tanayas tasya tasmAt subhrAD iti smRtaH
+ヴィヴァスヴァットの全ての子ら.彼らの中の最も優れた尊崇されるべき神の光は彼にもましてよく輝くと言われた.
+putrAH 男性名詞putra(息子)複数主格
+vivasvataH 男性名詞vivasvat(太陽神)単数属格
+sarve 形容詞sarva(全ての)男性複数主格
+mahyaH 動詞mah(尊崇する)未来受動分詞男性単数主格
+teSAm 人称代名詞三人称男性複数属格
+tathA 副詞(そのように)
+varaH 形容詞(従格属格処格の中で最も優れた)男性単数主格
+devabhrAT 男性名詞deva-女性名詞bhrAj(光輝)単数主格
+tanayaH 男性名詞tanaya(息子)単数主格
+tasya 人称代名詞三人称男性単数属格
+tasmAt 人称代名詞三人称男性単数従格
+subhrAT 形容詞subhrAj(よく輝く)男性単数主格
+iti 副詞(このように)
+smRtaH 動詞smR(宣言する)過去受動分詞男性単数主格
+
+subhrAjas tu trayaH putrAH prajAvanto bahuzrutA daza jyotiH zata jyotiH sahasra jyotir AtmavAn
+輝きを放つ3柱の子らは子孫に富み,知恵に富む.十の光,百の光,千の光は魂を持つ.
+subhrAjaH 副詞su(よく)-形容詞bhrAj(輝く)男性複数主格
+tu 不変辞(そして)
+trayaH 数詞(3)複数主格
+putrAH 男性名詞putra(息子)複数主格
+prajAvantaH 女性名詞prajA(子孫)-形容詞的接尾辞vat(~に富む)男性複数主格
+bahuzrutAH 形容詞bahuzruta(学識ある)男性複数主格
+jyotiH 中性名詞jyotis(光)単数主格
+
+daza putrasahasrANi daza jyoter mahAtmanas tato daza guNAz cAnye zata jyoter ihAtmajAH
+千人の子を持つ十柱と十の光の魂と十の絃と他に百の光の子らが彼から生まれた.
+putrasahasrANi 形容詞putrasahasra(千人の子を持つ)中性複数主格
+jyoteH 中性名詞jyotis(光)?
+tataH 人称代名詞三人称従格
+guNAH 男性名詞guNa(絃)複数主格
+ca 不変辞(~もまた)
+anye 形容詞anya(他の)男性複数主格
+iha 副詞(ここにおいて)
+AtmajAH 男性名詞Atmaja(子)複数主格
