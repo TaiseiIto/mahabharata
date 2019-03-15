@@ -1,4 +1,4 @@
-﻿nArAyaNam namaskRtya naraM caiva narottamaM devIM sarasvatIM caiva tato jayam udIrayet
+﻿0.nArAyaNam namaskRtya naraM caiva narottamaM devIM sarasvatIM caiva tato jayam udIrayet
 ナーラーヤナへの,またナラへの,最上の人への,また女神サラスヴァティーへの帰命に彼から勝利を顕現させる.
 nArAyaNam 男性名詞nArAyaNa単数対格
 namaskRtya 女性名詞namaskRti(帰命)単数具格?
@@ -12,7 +12,7 @@ tataH 人称代名詞三人称従格
 jayam 形容詞jaya(勝利)
 udIrayet 動詞ud-Ir(起きる)使役願望法能動態三人称単数
 
-lomaharSaNaputra ugrazravAH sUtaH paurANiko naimiSAraNye zaunakasya kulapater dvAsaza vArSike satre
+1.lomaharSaNaputra ugrazravAH sUtaH paurANiko naimiSAraNye zaunakasya kulapater dvAsaza vArSike satre
 古代の物語を熟知するローマハルシャナの子ウグラシュラヴァスは鼓舞された.シュナカ学派の長の,12の雨期を持つナイミシャの森において.
 lomaharSaNaputraH 男性名詞lomaharSaNa-男性名詞putra(息子)単数主格
 ugrazravAH 男性名詞ugrazravas単数主格
@@ -25,7 +25,7 @@ dvAdaza 数詞(12)
 vArSike 形容詞vArSika(雨期の)単数処格
 satre ?
 
-samAsInAn abhyagacchad brahmarSIn saMzitavratAn vinayAvanato bhUtvA kadA cit sUtanandanaH
+2.samAsInAn abhyagacchad brahmarSIn saMzitavratAn vinayAvanato bhUtvA kadA cit sUtanandanaH
 彼は結跏趺坐する者たちを訪ねた.厳しい修行をするバラモンの聖者たちの所へ.彼は慎み深く頭を下げつつ,いつか鼓舞されて喜んだ.
 samAsInAn 接頭辞sam(完全に)-第二類動詞As(座る)現在反射分詞男性複数対格
 abhyagacchat 動詞abhi-gam(こちらへ行く)過去能動態三人称単数
@@ -36,7 +36,7 @@ bhUtvA 動詞bhU(なる)絶対詞
 kadA cit 疑問詞(いつ)
 sUtanandanaH 動詞sU(鼓舞する)過去受動分詞-男性名詞nanda(喜び)単数主格
 
-tam Azramam anuprAptaM naimiSAraNyavAsinaH citrAH zrotuM kathAs tatra parivavrus tapasvinaH
+3.tam Azramam anuprAptaM naimiSAraNyavAsinaH citrAH zrotuM kathAs tatra parivavrus tapasvinaH
 苦行者の住処に到達した彼の話を,ナイミシャの森に住む輝ける苦行者たちは聞くことにした.
 tam 人称代名詞三人称中性単数対格
 Azramam 中性名詞Azrama(苦行者の住処)単数対格
@@ -49,7 +49,7 @@ tatra 副詞(ここに)
 parivavruH 動詞pari-vR(選ぶ)完了能動態三人称複数
 tapasvinaH 男性名詞tapasvin(苦行者)複数主格
 
-abhivAdyamunIMs tAMs tu sarvAn eva kRtAJjalir apRcchat sa tapovRddhiM sadbhiH caivAbhinanditaH
+4.abhivAdyamunIMs tAMs tu sarvAn eva kRtAJjalir apRcchat sa tapovRddhiM sadbhiH caivAbhinanditaH
 崇拝すべきその賢人たち全員に合掌して彼は問うた.そして彼は真実によって喜んだ.
 abhivAdyamunIn 動詞abhi-vand(崇拝する)未来受動分詞-男性名詞muni(賢人)複数対格
 tAn 人称代名詞三人称男性複数対格
@@ -64,7 +64,7 @@ sadbhiH 第二類動詞as(ある)現在能動分詞男性複数具格
 ca 副詞(~もまた)
 abhinanditaH 動詞abhi-nand(喜ぶ)過去受動分詞男性単数主格
 
-atha teSUpaviSTeSu sarveSv eva tapasviSu nirdiSTam AsanaM bheje vinayAl lomaharSaNiH
+5.atha teSUpaviSTeSu sarveSv eva tapasviSu nirdiSTam AsanaM bheje vinayAl lomaharSaNiH
 その時彼ら苦行者全員にローマハルシャナの子は席をあてがわれた.
 atha 副詞(その時)
 teSu 人称代名詞三人称男性複数処格
@@ -78,7 +78,7 @@ bheje ?
 vinayAt 男性名詞vinaya(思慮)単数従格
 lomaharSaniH 男性名詞lomaharSani単数主格
 
-sukhAsInaM tatas taM tu vizrAntam upalakSya ca athApRcchad RSis tatra kaz cit prastAvayan kathAH
+6.sukhAsInaM tatas taM tu vizrAntam upalakSya ca athApRcchad RSis tatra kaz cit prastAvayan kathAH
 彼がくつろいで座り休まったのを見て,詩人の一人がどんな話なのか尋ねた.
 sukhAsInam 形容詞sukhAsIna(くつろいで座っている)男性単数対格
 tataH 人称代名詞三人称従格
@@ -95,7 +95,7 @@ kaz cit 不定代名詞kiM cit(何か)男性単数主格
 prastAvayan 男性名詞prastAva(話題)
 kathAH 女性名詞kathA(話)
 
-kRta Agamyate saute kva cAyaM vihRtas tvayA kAlaH kamalapatrAkSa zaMsaitat pRcchato mama
+7.kRta Agamyate saute kva cAyaM vihRtas tvayA kAlaH kamalapatrAkSa zaMsaitat pRcchato mama
 あなたは今どこを目指して行くのか.蓮の花弁のような眼を持つ者よ,問うている私に答えよ.
 kRtaH 動詞kR(なす)過去受動分詞男性単数主格
 Agamyate 動詞A-gam(来る)現在受動態三人称単数
@@ -113,7 +113,7 @@ mama 人称代名詞一人称単数属格
 
 ウグラシュラヴァスの言葉
 
-janamejayasya rAjarSeH sarpasatre mahAtmanaH samIpe pArthivendrasya samyak pArikSitasya ca
+8.janamejayasya rAjarSeH sarpasatre mahAtmanaH samIpe pArthivendrasya samyak pArikSitasya ca
 蛇族を縛る者のために,詩人の王ジャナメージャヤの偉大な魂,地上に現れたるインドラ,パリクシットの子孫に関する
 janamejayasya 男性名詞janamejaya(人名)単数属格
 rAjarSeH 男性名詞rAja(王)-男性名詞RSi(詩人)単数属格
@@ -125,7 +125,7 @@ samyak 形容詞samyaJc(完全な)中性単数主格
 pArikSitasya 男性名詞parikSitに属するもの(janamejaya)単数属格
 ca 不変辞~もまた
 
-kRSNadvaipAyana proktAH supuNyA vividhAH kathAH kathitAz cApi vidhivad yA vaizampAyanena vai
+9.kRSNadvaipAyana proktAH supuNyA vividhAH kathAH kathitAz cApi vidhivad yA vaizampAyanena vai
 宣言されし非常に優れた諸々の物語を,クリシュナドヴァイパーヤナよ,まさにヴァイシャンパーヤナによって,
 kRSNadvaipAyana 男性名詞kRSNadvaipAyana(vyAsaの称)単数呼格
 proktAH 動詞pra-vac(宣言する)過去受動分詞女性複数対格
@@ -139,7 +139,7 @@ yAH 関係代名詞女性複数対格
 vaizampAyanena 男性名詞vaizampAyana(vyAsaの弟子)単数具格
 vai 先行する語を強調する不変辞
 
-zrutvAhaM tA vicitrArthA mahAbhAratasaMzritA bahUni saMparikramyatIrthAny AyatanAni ca
+10.zrutvAhaM tA vicitrArthA mahAbhAratasaMzritA bahUni saMparikramyatIrthAny AyatanAni ca
 私は偉大なるバラタ族に関するさまざま物語を,訪れるべき道や場所のことを聞き,
 zrutvA 動詞zru(聞く)絶対詞
 aham 人称代名詞一人称単数主格
@@ -151,7 +151,7 @@ saMparikramyatIrthAni 動詞sam-pari-kram(歩き回る)未来受動分詞-中性
 AyatanAni 中性名詞Ayatana(場所)複数対格
 ca 不変辞~もまた
 
-samantapaJcakaM nAma puNyaM dvijaniSevitaM gatavAn asmi taM dezaM yuddhaM yatrAbhavat purA pANDavAnAM kurUNAM ca sarveSAM ca mahIkSitAm
+11.samantapaJcakaM nAma puNyaM dvijaniSevitaM gatavAn asmi taM dezaM yuddhaM yatrAbhavat purA pANDavAnAM kurUNAM ca sarveSAM ca mahIkSitAm
 再生族がしばしば訪れた吉兆の地サマンタパンチャカを訪れた.かつてパーンダヴァ族とカウラヴァ族の全ての王たちの間で戦争のあったその地を.
 samantapaJcakam 中性名詞(地名)samantapaJcaka単数対格
 nAma 中性名詞nAman(名前)単数対格
@@ -169,7 +169,7 @@ kurUNAm 男性名詞kuru(クル族)複数属格
 sarveSAM 形容詞sarva(全ての)複数属格
 mahIkSitAm 男性名詞mahIkSit(王)複数属格
 
-didRkSur AgatAs tasmAt samIpaM bhavatAm iha AyuSmantaH sarva eva brahmabhUtA hi me matAH
+12.didRkSur AgatAs tasmAt samIpaM bhavatAm iha AyuSmantaH sarva eva brahmabhUtA hi me matAH
 そこから近くに来た者達が,ここにいるあなたたち長寿のバラモンたち全員が私の前に現れた.
 didRkSuH 動詞dRz(主格として属格に現れる)完了能動態三人称複数
 AgatAH 動詞A-gam(来る)過去受動分詞男性複数主格
@@ -184,7 +184,7 @@ hi 不変辞(確かに)
 me 人称代名詞一人称単数属格
 matAH 動詞man(思う)過去受動分詞男性複数主格
 
-asmin yajJe mahAbhAgAH sUryapAvakavarcasaH kRtAbhiSekAH zucayaH kRtajapyA hutAgnayo bhavanta Asate svasthA bravImi kim ahaM dvijAH
+13.asmin yajJe mahAbhAgAH sUryapAvakavarcasaH kRtAbhiSekAH zucayaH kRtajapyA hutAgnayo bhavanta Asate svasthA bravImi kim ahaM dvijAH
 この護摩の中で大いに祝福された太陽の光のごとき清らかな語り継がれるべき祭火である安穏なあなたたちが座っている.私は何を語るのか.再生族たちよ.
 asmin 近称代名詞男性単数処格
 yajJe 男性名詞yajJa(祭式)単数処格
@@ -202,7 +202,7 @@ kim 疑問代名詞中性単数対格
 aham 人称代名詞一人称単数主格
 dvijAH 形容詞dvija(再生族)男性複数呼格
 
-purANasaMzritAH puNyAH kathA vA dharmasaMzritA itivRttaM narendrANAm RSINAM ca mahAtmanAm
+14.purANasaMzritAH puNyAH kathA vA dharmasaMzritA itivRttaM narendrANAm RSINAM ca mahAtmanAm
 古代の出来事や法に関する優れた物語を,王たち,詩人たち,偉大な魂たちの物語を.
 purANasaMzritAH 形容詞purANa(古代の)-動詞sam-zri(一緒になる)過去受動分詞女性複数
 puNyAH 形容詞puNya(優れた)女性複数対格
@@ -216,7 +216,7 @@ mahAtmanAm 接頭辞mahA(偉大な)-男性名詞Atman(魂)複数属格
 
 聖仙たちの言葉
 
-dvaipAyanena yat proktaM purANaM paramarSiNA surair brahmarSibhiz caiva zrutvA yad abhipUjitam
+15.dvaipAyanena yat proktaM purANaM paramarSiNA surair brahmarSibhiz caiva zrutvA yad abhipUjitam
 最高の詩人ドヴァイパーヤナ,神々,バラモンの聖者たちによって語られた尊敬に値する古代の物語を聞き,
 dvaipAyanena 男性名詞dvaipAyana(vyAsaの称)単数具格
 yat 関係代名詞中性単数主格
@@ -230,7 +230,7 @@ eva 不変辞(まさに)
 zrutvA 動詞zru(聞く)絶対詞
 abhipUjitam 動詞abhi-pUj(尊敬する)過去受動分詞中性単数主格
 
-tasyAkhyAnavariSThasya vicitrapadaparvaNaH sUkSmArthanyAyayuktasya vedArthair bhUSitasya ca
+16.tasyAkhyAnavariSThasya vicitrapadaparvaNaH sUkSmArthanyAyayuktasya vedArthair bhUSitasya ca
 その多彩な韻律で微細な法則に結びつけられた最も優れた飾られた物語の知恵の道理によって
 tasya 人称代名詞三人称男性単数属格
 AkhyAnavariSThasya 中性名詞AkhyAna(物語)-形容詞vara(優れた)最上級男性単数属格
@@ -240,7 +240,7 @@ vedArthaiH 男性名詞veda(知識)-男性名詞artha(道理)複数具格
 bhUSitasya 第十類動詞動詞bhUS(飾る)過去受動分詞男性単数属格
 ca 不変辞(もまた)
 
-bhAratasyetihAsasya puNyAM granthArthasaMyutAM saMskAropagatAM brAhmIM nAnAzAstropabRMhitAm
+17.bhAratasyetihAsasya puNyAM granthArthasaMyutAM saMskAropagatAM brAhmIM nAnAzAstropabRMhitAm
 バラタ族の物語の道理に関する書物を,浄められていったブラーフミー文字を,増大する様々な教えを
 bhAratasya 男性名詞bhArata(バラタ族)単数属格
 itihAsasya 男性名詞itihAsa(物語)単数属格
@@ -250,7 +250,7 @@ saMskAropagatAm 男性名詞saMskAra(浄めること)-動詞upa-gam(近づく)�
 brAhmIm 女性名詞brAhmI(ブラーフミー文字)単数対格
 nAnAzAstropabRMhitAm 副詞nAnA(さまざまに)-中性名詞zAstra(教え)-動詞upa-barh(力づける)過去受動分詞女性単数対格
 
-janamejayasya yAM rAjJo vaizampAyana uktavAn yathAvat sa RSiH tuSTyA satre dvaipAyanAjJayA
+18.janamejayasya yAM rAjJo vaizampAyana uktavAn yathAvat sa RSiH tuSTyA satre dvaipAyanAjJayA
 ヴァイシャンパーヤナが語ったジャナメージャヤ王の物語をその詩人は知恵あるドヴァイパーヤナの歓喜によって
 janamejayasya 男性名詞janamejaya単数属格
 yAm 関係代名詞女性単数対格
@@ -264,7 +264,7 @@ tuSTyA 女性名詞tuSTi(歓喜)単数具格
 satre ?
 dvaipAyanaAjJayA 男性名詞dvaipAyana女性形-形容詞jJa(熟知する)女性単数具格
 
-vedaiz caturbhiH samitAM vyAsasyAdbhutakarmaNaH saMhitAM zrotum icchAmo dharmyAM pApabhayApahAm
+19.vedaiz caturbhiH samitAM vyAsasyAdbhutakarmaNaH saMhitAM zrotum icchAmo dharmyAM pApabhayApahAm
 ヴャーサの不可思議な行の,4つのヴェーダに続く本集を私たちは聞きたい.法にかなった悪の恐怖を取り除く物語を.
 vadaiH 男性名詞veda複数具格
 caturbhiH 数詞(4)男性複数具格
@@ -279,7 +279,7 @@ pApabhayApahAm 形容詞pApa(悪い)-形容詞bhayApaha(恐怖を取り除く)�
 
 ウグラシュラヴァスの言葉
 
-AdyaM puruSam IzAnaM puruhUtaM puruSTutam Rtam ekAkSaraM brahmavyaktAvyaktaM sanAtanam
+20.AdyaM puruSam IzAnaM puruhUtaM puruSTutam Rtam ekAkSaraM brahmavyaktAvyaktaM sanAtanam
 多くの人々に祈願され,多くの人々に称賛された最初の人間の支配者を,唯一不滅の美しい永遠の呪文を,
 Adyam 形容詞Adya(最初の)男性単数対格
 puruSam 男性名詞puruSa(人間)単数対格
@@ -291,7 +291,7 @@ ekAkSaram 数詞eka(1)-否定接頭辞a-形容詞kSara(消滅する)男性単数
 brahmavyaktAvyaktam 中性名詞brahman(呪文)-動詞vi-aJj(美しくする)過去受動分詞-動詞vi-aJj過去受動分詞男性単数対格
 sanAtanam 形容詞sanAtana(永遠の)男性単数対格
 
-asac ca sac caiva ca yad vizvaM sad asataH paraM parAvarANAM sraSTAraM purANaM param avyayam
+21.asac ca sac caiva ca yad vizvaM sad asataH paraM parAvarANAM sraSTAraM purANaM param avyayam
 嘘も真実も,嘘に関する全ての真実をも,過去から現在にかけて永続する不滅の創造主を,
 asat 否定接頭辞a-動詞as(ある)現在能動分詞中性単数対格
 ca 不変辞(~もまた)
@@ -306,7 +306,7 @@ sraSTAram 男性名詞sraSTR(創造主)単数対格
 purANam 形容詞purANa(古代の)男性単数対格
 avyayam 形容詞avyaya(不滅の)男性単数対格
 
-maGgalyaM maGgalaM viSNuM vareNyam anaghaM zuciM namaskRtyahRSIkeSaM carAcaraguruM harim
+22.maGgalyaM maGgalaM viSNuM vareNyam anaghaM zuciM namaskRtyahRSIkeSaM carAcaraguruM harim
 選ばれるべき罪なき清き幸福な髪の逆立った崇拝されるべき黄色の走る導師ヴィシュヌ神を,
 maGgalyam 形容詞maGgalya(幸福な)男性単数対格
 maGgalam 形容詞maGgala(幸福な)男性単数対格
@@ -318,7 +318,7 @@ namaskRtyahRSIkeSam 動詞namas-kR(崇拝する)過去受動分詞形容詞-男�
 carAcaragurum 形容詞carAcara(走る)-男性名詞guru(導師)単数対格
 harim 形容詞hari(黄色の)男性単数対格
 
-maharSeH pUjitasyeha sarvaloke mahAtmanaH pravakSyAmi mataM kRtsnaM vyAsasyAmitatejasaH
+23.maharSeH pUjitasyeha sarvaloke mahAtmanaH pravakSyAmi mataM kRtsnaM vyAsasyAmitatejasaH
 この世界で尊ばれた大聖者の偉大な魂を持つ彼について私は語る.ヴャーサの限りない威光の完全な思考の対象について.
 maharSeH 男性名詞maharSi(大聖者)単数属格
 pUjitasya 動詞pUj(尊ぶ)過去受動分詞男性単数属格
@@ -331,7 +331,7 @@ kRtsnam 形容詞kRtsna(完全な)男性単数対格
 vyAsasya 男性名詞vyAsa単数属格
 amitatejasaH 形容詞amita(無量の)-中性名詞tejas(威光)単数属格
 
-AcakhyuH kavayaH ke cit saMpratyAcakSate para AkhyAsyanti tathaivAnye itihAsam imaM bhuvi
+24.AcakhyuH kavayaH ke cit saMpratyAcakSate para AkhyAsyanti tathaivAnye itihAsam imaM bhuvi
 ある賢者たちは語った.そして彼らが語った後,他の者たちがまさにこのようにこの物語を地上において語るだろう.
 AcakhyuH 動詞A-khyA(語る)完了能動態三人称複数
 kavayaH 形容詞kavi(賢い)男性複数主格
@@ -346,7 +346,7 @@ itihAsam 男性名詞itihAsa(物語)単数対格
 imam 近称代名詞男性単数対格
 bhuvi 女性名詞bhU(大地)単数処格
 
-idaM tu triSu lokeSu mahajjJAnaM pratiSThitaM vistaraiz ca samAsaiz ca dhAryate yad dvijAtibhiH
+25.idaM tu triSu lokeSu mahajjJAnaM pratiSThitaM vistaraiz ca samAsaiz ca dhAryate yad dvijAtibhiH
 そしてその広さと繋がりによって3つの世界にまたがって立つこの偉大な知識は再生族たちによって受け継がれる.
 idam 近称代名詞中性単数主格
 tu 不変辞(そして)
@@ -360,7 +360,7 @@ dhAryate 動詞dhR(支持する)使役受動現在反射態三人称単数
 yad 関係代名詞中性単数主格
 dvijAtibhiH 形容詞dvijAti(再生族の)複数具格
 
-alaMkRtaM zubhaiH zabdaiH samayair divyamAnuSaiH chando vRttaiz ca vividhair anvitaM viduSAM priyam
+26.alaMkRtaM zubhaiH zabdaiH samayair divyamAnuSaiH chando vRttaiz ca vividhair anvitaM viduSAM priyam
 それは美しい音の決まりによって,半神族たちによって,さまざまな韻律によって賢者たちにとって心地よく飾られた.
 alaMkRtam 形容詞alaMkRta(飾られた)中性単数主格
 zubhaiH 形容詞zubha(美しい)男性複数具格
@@ -374,7 +374,7 @@ anvitam 動詞anu-i(従う)過去受動分詞中性単数主格
 viduSAm 動詞vid(知る)完了能動分詞男性複数属格
 priyam 形容詞priya(喜ばしい)中性単数主格
 
-niSprabhe 'smin nirAloke sarvatas tamasAvRte bRhad aNDam abhUd ekaM prajAnAM bIjam akSayam
+27.niSprabhe 'smin nirAloke sarvatas tamasAvRte bRhad aNDam abhUd ekaM prajAnAM bIjam akSayam
 全面を暗黒に覆われたこの盲目の暗闇において肥大するひとつの卵,生きとし生けるものたちの不滅の種が出現した.
 niSprabhe 形容詞niSprabha(暗い)男性単数処格
 asmin 近称代名詞男性単数処格
@@ -389,7 +389,7 @@ prajAnAM 女性名詞prajA(生きとし生けるもの)複数属格
 bIjam 中性名詞bIja(種)単数主格
 akSayam 形容詞akSaya(不滅の)中性単数主格
 
-yugasyAdau nimittaM tan mahaddivyaM pracakSate yasmiMs tac chrUyate satyaM jyotir brahma sanAtanam
+28.yugasyAdau nimittaM tan mahaddivyaM pracakSate yasmiMs tac chrUyate satyaM jyotir brahma sanAtanam
 偉大なる天上のユガの始まりについて彼らは語る.その始まりにおいて真実の永遠の光の呪文が聞こえる.
 yugasya 中性名詞yuga単数属格
 Adau 男性名詞Adi(始まり)単数処格
@@ -404,7 +404,7 @@ jyotiH 中性名詞jyotis(光)単数主格
 brahma 中性名詞brahman(呪文)単数主格
 sanAtanam 形容詞sanAtana(永遠の)中性単数主格
 
-adbhutaM cApy acintyaM ca sarvatra samatAM gatam avyaktaM kAraNaM sUkSmaM yat tat sadasad Atmakam
+29.adbhutaM cApy acintyaM ca sarvatra samatAM gatam avyaktaM kAraNaM sUkSmaM yat tat sadasad Atmakam
 生じたる不可思議にして認識せらるべからざる微細な原始精神は常に同じところに向かう.それは有と無からなる.
 adbhutam 形容詞adbhuta(不可思議な)中性単数主格
 ca 不変辞(~もまた)
@@ -421,7 +421,7 @@ tat 人称代名詞三人称中性単数主格
 sadasat 動詞as(ある)現在能動分詞-否定接頭辞a-動詞as(ある)現在能動分詞中性単数主格
 Atmakam 形容詞Atmaka(~より成る)中性単数主格
 
-yasmAt pitAmaho jajJe prabhur ekaH prajApatiH brahmA suraguruH sthAnur manuH kaH parameSThy atha
+30.yasmAt pitAmaho jajJe prabhur ekaH prajApatiH brahmA suraguruH sthAnur manuH kaH parameSThy atha
 そこにおいてひとりの優れた祖先が生まれた.生命の主であり,神々の導師であり,自立する最高の人である梵天は誰であるか.
 yasmAt 関係代名詞単数処格
 pitAmahaH 男性名詞pitAmaha(祖先)単数主格
@@ -437,7 +437,7 @@ kaH 疑問代名詞男性単数主格
 parameSThI 形容詞parameSThin(最高の)男性単数主格
 atha 副詞(そして)
 
-pracetasas tathA dakSo dakSaputrAz ca sapta ye tataH prajAnAM patayaH prAbhavann ekaviMzatiH
+31.pracetasas tathA dakSo dakSaputrAz ca sapta ye tataH prajAnAM patayaH prAbhavann ekaviMzatiH
 そのように賢明なダクシャとその7柱の子ら,21柱の生命の支配者たちが彼から現れた.
 pracetasaH 形容詞pracetas(賢明な)男性複数主格
 tathA 副詞(そのように)
@@ -451,7 +451,7 @@ patayaH 男性名詞pati(主)複数主格
 prAbhavan 動詞pra-bhu(現れる)過去能動態三人称複数
 ekaviMzatiH 数詞ekaviMzati(21)男性複数主格
 
-puruSaz cAparameyAtmA yaM sarvam RSayo vidur vizve devAs tathAdityA vasavo 'thAzvinAv api
+32.puruSaz cAparameyAtmA yaM sarvam RSayo vidur vizve devAs tathAdityA vasavo 'thAzvinAv api
 詩人たちがそれに関するすべてを悟っている人間も,霊魂も,全ての神々もそのように(現れた).アーディティア神群もヴァス神群も.
 puruSaH 男性名詞puruSa(人間)単数主格
 ca 不変辞(~もまた)
@@ -469,7 +469,7 @@ atha 副詞(その時)
 azvinau 男性名詞azvin双数主格
 api 不変辞(~もまた)
 
-yakSAH sAdhyAH pizAcAz ca guhyakAH pitaras tathA tataH prasUtA vidvAMsaH ziSTA brahmarSayo 'malAH
+33.yakSAH sAdhyAH pizAcAz ca guhyakAH pitaras tathA tataH prasUtA vidvAMsaH ziSTA brahmarSayo 'malAH
 夜叉たちも,サーディア神群たちも,悪魔たちも,guhyakaたちも,父たちもそのように彼から(現れた).突き動かされた覚者達,指令された穢れのないバラモンの詩人たちも.
 yakSAH 男性名詞yakSa(kubera神の従者)複数主格
 sAdhyAH 男性名詞sAdhya(サーディア神群)複数主格
@@ -485,7 +485,7 @@ ziSTAH 動詞zAs(指令する)過去受動分詞男性複数主格
 brahmarSayaH 男性名詞brahmarSi(バラモンの詩人)複数主格
 amalAH 形容詞amala(無垢な)男性複数主格
 
-rAjarSayaz ca bahavaH sarvaiH samuditA guNair Apo dyauH pRthivI vAyur antarikSaM dizas tathA
+34.rAjarSayaz ca bahavaH sarvaiH samuditA guNair Apo dyauH pRthivI vAyur antarikSaM dizas tathA
 詩人の王たち,多くの語り継がれた者達,アーパ,天,地,風,空,方角も全ての糸によってそのように(現れた).
 rAjarSayaH 男性名詞rAja(王)-男性名詞RSi(詩人)複数主格
 bahavaH 形容詞bahu(多くの)男性複数主格
@@ -500,7 +500,7 @@ antarikSam 中性名詞antarikSa(空)単数主格
 dizaH 女性名詞diza(方向)複数主格
 tathA 副詞(そのように)
 
-saMvatsarartavo mAsAH pakSAho rAtrayaH kramAd yac cAnyad api tat sarvaM saMbhUtaM lokasAkSikam
+35.saMvatsarartavo mAsAH pakSAho rAtrayaH kramAd yac cAnyad api tat sarvaM saMbhUtaM lokasAkSikam
 年,月,昼と夜は運行から.他のものも全て生まれて世界に現れた.
 saMvatsarartavaH 男性名詞saMvatsara(一年間)-男性名詞Rtu(期間)複数主格
 mAsAH 男性名詞mAsA(暦の月)複数主格
@@ -516,7 +516,7 @@ sarvam 形容詞sarva(全ての)中性単数主格
 saMbhUtam 動詞sam-bhU(生まれる)過去受動分詞中性単数主格
 lokasAkSikam 形容詞lokasAkSika(世界に目撃された)中性単数主格
 
-yad idaM dRzyate kiM cid bhUtaM sthAvarajaGgamaM punaH saMkSipyate sarvaM jagat prApte yugakSaye
+36.yad idaM dRzyate kiM cid bhUtaM sthAvarajaGgamaM punaH saMkSipyate sarvaM jagat prApte yugakSaye
 現れたそれは不動のもの,動くものである.そしてユガの終わりが到達した時に全ては集められて行く.
 yat 関係代名詞中性単数
 idam 近称代名詞中性単数
@@ -531,7 +531,7 @@ jagat 動詞gA(行く)現在能動分詞中性単数
 prApte 動詞pra-Ap(到達する)過去受動分詞男性単数処格
 yugakSaye 男性名詞yugakSaya(ユガの終わり)単数処格
 
-yathartAv RtuliGgAni nAnArUpANi paryaye dRzyante tAni tAny eva tathA bhAvA yugAdiSu
+37.yathartAv RtuliGgAni nAnArUpANi paryaye dRzyante tAni tAny eva tathA bhAvA yugAdiSu
 時に応じて移り変わりゆく季節が見られる.まさにそのようにユガの始まりにおいて創造があった.
 yathartau 副詞(時に応じて)
 RtuliGgAni 中性名詞RtuliGga(季節の特色)複数主格
@@ -544,7 +544,7 @@ tathA 副詞(そのように)
 bhAvAH 男性名詞bhAva(なること)複数主格
 yugAdisu 中性名詞yuga-男性名詞Adi(始まり)複数処格
 
-evam etad anAdyantaM bhUtasaMhArakArakam anAdinidhanaM loke cakraM saMparivartate
+38.evam etad anAdyantaM bhUtasaMhArakArakam anAdinidhanaM loke cakraM saMparivartate
 このようにしてこの始まりも終わりもない存在の終焉と創造の車輪は世界において回転する.
 evam 副詞(このように)
 etad 近称代名詞中性単数主格
@@ -555,14 +555,14 @@ loke 男性名詞loka(世界)単数処格
 cakram 中性名詞cakra(車輪)単数主格
 saMparivartate 第一類動詞sam-pari-vRt(回転する)現在反射態三人称単数
 
-trayas triMzat sahasrANi trayas triMzac chatAni ca trayas triMzac ca devAnAM sRSTiH saMkSepalakSaNA
+39.trayas triMzat sahasrANi trayas triMzac chatAni ca trayas triMzac ca devAnAM sRSTiH saMkSepalakSaNA
 三万三千と三千三百と三十三の神々による創造は破壊を伴う.
 trayas triMzat sahasrANi trayas triMzat chatAni ca trayas triMzac ca 数詞(33000+3300+33)
 devAnAm 男性名詞deva(神)複数属格
 sRSTiH 女性名詞sRSTi(創造)単数主格
 saMkSepalakSanA 男性名詞saMkSepa(破壊)-形容詞lakSaNa(~を伴う)女性単数主格
 
-divaH putro bRhadbhAnuz cakSur AtmA vibhAvasuH savitA ca RcIko 'rko bhAnur AzAvaho raviH
+40.divaH putro bRhadbhAnuz cakSur AtmA vibhAvasuH savitA ca RcIko 'rko bhAnur AzAvaho raviH
 天の子であり,増大する光であり,眼であり,聖仙リチーカであり,燦然と輝く光である太陽
 divaH 男性名詞div(天)単数属格
 putraH 男性名詞putra(息子)単数主格
@@ -577,7 +577,7 @@ bhAnuH 男性名詞bhAnu(光明)単数主格
 AzAvahaH 男性名詞AzAvaha(太陽)単数主格
 raviH 男性名詞ravi(太陽)単数主格
 
-putrA vivasvataH sarve mahyas teSAM tathA varo devabhrAT tanayas tasya tasmAt subhrAD iti smRtaH
+41.putrA vivasvataH sarve mahyas teSAM tathA varo devabhrAT tanayas tasya tasmAt subhrAD iti smRtaH
 ヴィヴァスヴァットの全ての子ら.彼らの中の最も優れた尊崇されるべき神の光は彼にもましてよく輝くと言われた.
 putrAH 男性名詞putra(息子)複数主格
 vivasvataH 男性名詞vivasvat(太陽神)単数属格
@@ -594,7 +594,7 @@ subhrAT 形容詞subhrAj(よく輝く)男性単数主格
 iti 副詞(このように)
 smRtaH 動詞smR(宣言する)過去受動分詞男性単数主格
 
-subhrAjas tu trayaH putrAH prajAvanto bahuzrutA daza jyotiH zata jyotiH sahasra jyotir AtmavAn
+42.subhrAjas tu trayaH putrAH prajAvanto bahuzrutA daza jyotiH zata jyotiH sahasra jyotir AtmavAn
 輝きを放つ3柱の子らは子孫に富み,知恵に富む.十の光,百の光,千の光は魂を持つ.
 subhrAjaH 副詞su(よく)-形容詞bhrAj(輝く)男性複数主格
 tu 不変辞(そして)
@@ -604,7 +604,7 @@ prajAvantaH 女性名詞prajA(子孫)-形容詞的接尾辞vat(~に富む)男性
 bahuzrutAH 形容詞bahuzruta(学識ある)男性複数主格
 jyotiH 中性名詞jyotis(光)単数主格
 
-daza putrasahasrANi daza jyoter mahAtmanas tato daza guNAz cAnye zata jyoter ihAtmajAH
+43.daza putrasahasrANi daza jyoter mahAtmanas tato daza guNAz cAnye zata jyoter ihAtmajAH
 千人の子を持つ十柱と十の光の魂と十の絃と他に百の光の子らが彼から生まれた.
 putrasahasrANi 形容詞putrasahasra(千人の子を持つ)中性複数主格
 jyoteH 中性名詞jyotis(光)?
@@ -614,3 +614,29 @@ ca 不変辞(~もまた)
 anye 形容詞anya(他の)男性複数主格
 iha 副詞(ここにおいて)
 AtmajAH 男性名詞Atmaja(子)複数主格
+
+44.bhUyas tato daza guNAH sahasra jyotiSaH sutAs tebhyo 'yaM kuruvaMzaz ca yadUnAM bharatasya ca
+彼よりも偉大なものを,十倍の千の光である彼らの子ら,クル族,ヤドゥ族とバラタ族の者たち,
+bhUyaH 動詞bhU(なる)比較級中性単数対格
+tataH 人称代名詞三人称従格
+daza 数詞(10)男性複数主格
+guNAH 形容詞guNa(倍の)男性複数主格
+sahasra 数詞(1000)
+jyotiSaH 中性名詞jyotis(光)男性複数主格
+sutAH 動詞sU(生む)過去受動分詞男性複数主格
+tebhyaH 人称代名詞三人称男性複数為格従格
+ayam 近称代名詞男性単数主格
+kuruvaMzaH 男性名詞kuruvaMza(クル族)単数主格
+yadUnAm 男性名詞yadu(ヤドゥ族)複数属格
+bharatasya 男性名詞bharata(バラタ族)単数属格
+
+45.yayAtIkSvAkuvaMzaz ca rAjarSINAM ca sarvazaH saMbhUtA bahavo vaMzA bhUtasargAH savistarAH
+ヤヤーティ王,イクシュヴァーク王の一族,詩人たちの一族,これまでに現れた多くの種族の創造の詳細
+yayAtIkSvAkuvaMzaH 男性名詞yayAti(月種族の祖puruの父)-男性名詞ikSvAku(日種族の祖)-男性名詞vaMza(血統)単数主格
+rAjarSINAm 男性名詞rAjan(王)-男性名詞RSi(詩人)複数属格
+sarvazaH 形容詞(全く)
+saMbhUtAH 動詞sam-bhU(生まれる)過去受動分詞男性複数主格
+bahavaH 形容詞bahu(多くの)男性複数主格
+vaMzAH 男性名詞vaMza(血統)複数主格
+bhUtasargAH 動詞bhU(なる)過去受動分詞-男性名詞sarga(創造)複数主格
+savistarAH 形容詞savistara(詳細な)男性複数主格
