@@ -616,8 +616,8 @@ iha 副詞(ここにおいて)
 AtmajAH 男性名詞Atmaja(子)複数主格
 
 44.bhUyas tato daza guNAH sahasra jyotiSaH sutAs tebhyo 'yaM kuruvaMzaz ca yadUnAM bharatasya ca
-彼よりも偉大なものを,十倍の千の光である彼らの子ら,クル族,ヤドゥ族とバラタ族の者たち,
-bhUyaH 動詞bhU(なる)比較級中性単数対格
+彼よりも偉大なもの,十倍の千の光である彼らの子ら,クル族,ヤドゥ族とバラタ族の者たち,
+bhUyaH 動詞bhU(なる)比較級中性単数主格
 tataH 人称代名詞三人称従格
 daza 数詞(10)男性複数主格
 guNAH 形容詞guNa(倍の)男性複数主格
@@ -631,8 +631,8 @@ yadUnAm 男性名詞yadu(ヤドゥ族)複数属格
 bharatasya 男性名詞bharata(バラタ族)単数属格
 
 45.yayAtIkSvAkuvaMzaz ca rAjarSINAM ca sarvazaH saMbhUtA bahavo vaMzA bhUtasargAH savistarAH
-ヤヤーティ王,イクシュヴァーク王の一族,詩人たちの一族,これまでに現れた多くの種族の創造の詳細
-yayAtIkSvAkuvaMzaH 男性名詞yayAti(月種族の祖puruの父)-男性名詞ikSvAku(日種族の祖)-男性名詞vaMza(血統)単数主格
+ヤヤーティ王,イクシュヴァーク王の一族,詩人たちの一族,これまでに現れた多くの種族の創造の詳細も
+yayAtIkSvAkuvaMzaH 男性名詞yayAti(月種族の祖purUravasの曾孫でヤドゥ族,トゥルヴァシャ族,アヌ族,ドゥルヒュ族,プール族の祖)-男性名詞ikSvAku(日種族の祖)-男性名詞vaMza(血統)単数主格
 rAjarSINAm 男性名詞rAjan(王)-男性名詞RSi(詩人)複数属格
 sarvazaH 形容詞(全く)
 saMbhUtAH 動詞sam-bhU(生まれる)過去受動分詞男性複数主格
@@ -640,3 +640,26 @@ bahavaH 形容詞bahu(多くの)男性複数主格
 vaMzAH 男性名詞vaMza(血統)複数主格
 bhUtasargAH 動詞bhU(なる)過去受動分詞-男性名詞sarga(創造)複数主格
 savistarAH 形容詞savistara(詳細な)男性複数主格
+
+46.bhUtasthAnAni sarvANi rahasyaM vividhaM ca yad vedayogaM savijJAnaM dharmo 'rthaH kAma eva ca
+全ての被造物の在処,いろいろな秘密,ヨーガの知識,物事の道理,そして愛も
+bhUtasthAnAni 動詞bhU(なる)過去受動分詞-中性名詞sthAna(場所)複数主格
+sarvANi 形容詞sarva(全ての)中性複数主格
+rahasyam 形容詞rahasya(秘密の)中性単数主格
+vividham 形容詞vividha(いろいろな)中性単数主格
+savijJAnam 接頭辞sa(含む)-中性名詞vijJAna(知識)単数主格
+
+47.dharmakAmArthazAstrANi zAstrANi vividhAni ca lokayAtrA vidhAnaM ca saMbhUtaM dRSTavAn RSiH
+法,愛,理の学問,いろいろな学問,日常生活,戒律,被造物を見た聖仙,
+lokayAtrA 女性名詞lokayAtrA(日常生活)
+vidhAnam 中性名詞vidhAna(戒律)
+
+48.itihAsAH savaiyAkhyA vividhAH zrutayo 'pi ceha sarvam anukrAntam uktaM granthasya lakSaNam
+いろいろな物語,教義,語られたすべての詩のしるしも,
+itihAsAH 男性名詞itihAsa(物語)複数主格
+savaiyAkhyAH ?
+zrutayaH 女性名詞zruti(聞くこと)複数主格
+anukrAntam ?
+uktam 動詞vac(言う)過去受動分詞中性単数主格
+granthasya 男性名詞grantha(詩)単数属格
+lakSaNam 形容詞lakSaNa(しるし)中性単数主格
