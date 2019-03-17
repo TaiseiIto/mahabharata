@@ -655,11 +655,36 @@ lokayAtrA 女性名詞lokayAtrA(日常生活)
 vidhAnam 中性名詞vidhAna(戒律)
 
 48.itihAsAH savaiyAkhyA vividhAH zrutayo 'pi ceha sarvam anukrAntam uktaM granthasya lakSaNam
-いろいろな物語,教義,語られたすべての詩のしるしも,
+サヴァイヤーキャーたちのいろいろな物語,教義,記された,語られたすべての詩のしるしも,
 itihAsAH 男性名詞itihAsa(物語)複数主格
 savaiyAkhyAH ?
 zrutayaH 女性名詞zruti(聞くこと)複数主格
-anukrAntam ?
+anukrAntam 動詞anu-kram(記す)過去受動分詞中性単数主格
 uktam 動詞vac(言う)過去受動分詞中性単数主格
 granthasya 男性名詞grantha(詩)単数属格
 lakSaNam 形容詞lakSaNa(しるし)中性単数主格
+
+49.vistIryai tan mahaj jJAnaM RSiH saMkSepam abravId iSTaM hi viduSAM loke samAsavyAsadhAraNam
+ヴィスティーリーに関する偉大な知識の真髄を詩人は語った.世界の賢者たちに求められたヴャーサの知る知識を.
+vistIryai 女性名詞vistIrI(?)単数為格
+tat 人称代名詞三人称中性単数対格
+mahat 形容詞mahat(偉大な)中性単数対格
+jJAnaM 中性名詞jJAna(知識)単数対格
+RSiH 男性名詞RSi(詩人)単数主格
+saMkSepam 男性名詞saMkSepa(略)単数対格
+abravIt 動詞brU(言う)過去能動態三人称単数
+iSTam 動詞iS(求める)過去受動分詞中性単数対格
+hi 不変辞(実に)
+viduSAm 動詞vid(知る)完了能動分詞男性複数属格
+loke 男性名詞loka(世界)単数処格
+samAsavyAsadhAraNam 男性名詞samAsa(略)-男性名詞vyAsa(mahAbhArataの著者)-形容詞dhAraNa(持っている)中性単数対格
+
+50.manvAdibhArataM ke cid AstIkAditathApare tathoparicarAdyanye viprAH samyag adhIyate
+マヌ期の始まりのバラタ族の物語をある者達が,はるか昔アースティーカ仙が生まれた頃,はるか昔動物が現れた頃の霊感を受けた者たちが学ぶ.
+manvAdibhAratam 男性名詞manu(人類の祖先,または彼が世界を統治する期間)-男性名詞Adi(始まり)-男性名詞bhArata(バラタ族)単数対格
+ke cid 不定代名詞kiM cid男性複数主格
+男性名詞AstIka(聖仙の名)-男性名詞Adi(始まり)-副詞tathA(そのように)-形容詞para(はるかな)男性単数処格
+副詞tathA(そのように)-副詞upari(上に)-名詞cara(動物)-男性名詞Adi(始まり)-形容詞anya(他の)男性複数主格
+viprAH 形容詞vipra(霊感を受けた)男性複数主格
+samyak 形容詞samyaJc(完全な)中性単数主格
+adhIyate 動詞adhi-i(学ぶ)現在反射態三人称複数
