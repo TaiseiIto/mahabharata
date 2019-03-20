@@ -688,3 +688,53 @@ ke cid 不定代名詞kiM cid男性複数主格
 viprAH 形容詞vipra(霊感を受けた)男性複数主格
 samyak 形容詞samyaJc(完全な)中性単数主格
 adhIyate 動詞adhi-i(学ぶ)現在反射態三人称複数
+
+51.vividhaM saMhitAjJAnaM dIpayanti manISiNo vyAkhyAtuM kuzalAH ke cid granthaM dhArayituM pare
+賢者たちはサンヒターの知恵を照らす.ある正しき者たちがあちらで書を説き,守るために.
+vividham 形容詞vividha(いろいろな)中性単数対格
+saMhitAjJAnam 女性名詞saMhitA(veda本集)-中性名詞jJAna(知識)単数対格
+dIpayanti 動詞dIp(輝く)使役現在能動態三人称複数
+manISiNaH 形容詞manISin(賢い)男性複数主格
+vyAkhyAtum 動詞vi-A-khyA(説明する)不定詞
+kuzalAH 形容詞kuzala(正しい)男性複数主格
+ke cid 不定代名詞男性複数主格
+grantham 男性名詞grantha(書物)単数対格
+dhArayitum 動詞dhR(守る)使役不定詞
+pare 形容詞para(向こうの)男性単数処格
+
+52.tapasA brahmacaryeNa vyasyavedaM sanAtanam itihAsam imaM cakre puNyaM satyavatI sutaH
+苦行によって,青年期の宗教的学習によってこの分割されるべきヴェーダの永遠の幸運の物語をサティアヴァティーの息子は作った.
+tapasA 中性名詞tapas(苦行)単数具格
+brahmacaryeNa 中性名詞brahmacarya(宗教的学習.四住期の第一)
+vyasyavedam 動詞vi-as(分割する)未来受動分詞-男性名詞veda単数対格
+sanAtanam 形容詞sanAtana(永遠の)男性単数対格
+itihAsam 男性名詞itihAsa(物語)男性単数対格
+imam 近称代名詞男性単数対格
+cakre 動詞kR(作る)完了反射態三人称単数
+puNyam 形容詞puNya(幸運な)男性単数対格
+satyavatIsutaH 女性名詞satyavatI(vyAsaの母)-動詞su(生む)過去受動分詞男性単数主格
+
+53.parAzarAtmajo vidvAn brahmarSiH saMzitavrato mAtur niyogAd dharmAtmA gAGgeyasya ca dhImataH
+知恵に富むバラモンの聖仙であるパラーシャラ仙の息子の厳しい苦行は母の命による.ガンジス川にいる,詩想に富む法の魂のそれは.
+parAzarAtmajaH 男性名詞parAzara(vyAsaの父)-男性名詞Atmaja(息子)単数主格
+vidvAn 男性名詞vidvat(知恵に富む)男性単数主格
+brahmarSiH 男性名詞brahmarSi(バラモンの詩人)単数主格
+saMzitavrataH 動詞sam-zA(鋭くする)過去受動分詞-中性名詞vrata(苦行)男性単数主格
+mAtuH 女性名詞mAtR(母)単数従格
+niyogAt 男性名詞niyoga(命令)
+dharmAtmA 男性名詞dharma(法)-男性名詞Atman(魂)単数主格
+gAGgeyasya 形容詞gAGgeya(ガンジス川の)男性単数属格
+dhImataH 形容詞dhImat(詩想に富む)男性単数属格
+
+54.kSetre vicitravIryasya kRSNadvaipAyanaH purA trIn agnIn iva kauravyAJ janayAm Asa vIryavAn
+ヴィチトラヴィーリャの領地において力に富むクリシュナドヴァイパーヤナはかつて3つの火のごとくカウラヴァ族の子たちを生ませた.
+kSetre 中性名詞kSetra(領地)単数処格
+vicitravIryasya 男性名詞vicitravIrya(人名)単数属格
+kRSNadvaipAyanaH 男性名詞kRSNadvaipAyana(vyAsaの称)単数主格
+purA 副詞(かつて)
+trIn 数詞tri(3)男性複数対格
+agnIn 男性名詞agni(火)複数対格
+iva 副詞(~のごとく)
+kauravyAn 形容詞kauravya(カウラヴァ族の)複数対格
+janayAm Asa 動詞jan(生まれる)使役完了能動態三人称単数
+vIryavAn 形容詞vIryavat(力強い)男性単数主格
