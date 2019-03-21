@@ -738,3 +738,43 @@ iva 副詞(~のごとく)
 kauravyAn 形容詞kauravya(カウラヴァ族の)複数対格
 janayAm Asa 動詞jan(生まれる)使役完了能動態三人称単数
 vIryavAn 形容詞vIryavat(力強い)男性単数主格
+
+55.utpAdyadhRtarASTraM ca pANDuM viduram eva ca jagAma tapase dhImAn punar evAzramaM prati
+生まれるべきドリタラーシュトラとパーンドゥとヴィドゥラを.詩想に富む彼は苦行をしに隠棲所へと向かった.
+utpAdyadhRtarASTram 動詞ud-pad(生じる)未来受動分詞-男性名詞dhRtarASTra単数対格
+jagAma 動詞gam(行く)完了能動態三人称単数
+tapase 中性名詞tapas(苦行)単数為格
+dhImAn 形容詞dhImat(詩想に富む)男性単数主格
+punaH 副詞(後に)
+eva 不変辞(まさに)
+Azramam 中性名詞Azrama(隠棲所)単数対格
+prati 副詞(対格の方へ)
+
+56.teSu jAteSu vRddheSu gateSu paramAM gatim abravId bhArataM loke mAnuSe 'smin mahAn RSiH
+生まれ,成長し,行った彼らにおける最高の歩みをこの人間界で偉大な詩人は語った.
+teSu 人称代名詞三人称男性複数処格
+jAteSu 動詞jan(生まれる)過去受動分詞男性複数処格
+vRddheSu 動詞vRdh(増大する)過去受動分詞男性複数処格
+gateSu 動詞gam(行く)過去受動分詞男性複数処格
+paramAm 形容詞parama(最高の)女性単数対格
+gatim 女性名詞gati(歩み)単数対格
+abravIt 動詞brU(言う)過去能動態三人称単数
+bhAratam 形容詞bhArata(バラタ族の)男性単数対格
+loke 男性名詞loka(世界)単数処格
+mAnuSe 形容詞mAnuSa(人間の)男性単数処格
+asmin 近称代名詞男性単数処格
+mahAn 形容詞mahat(偉大な)男性単数主格
+RSiH 男性名詞RSi(詩人)単数主格
+
+57.janamejayena pRSTaH san brAhmaNaiz ca sahasrazaH zazAsa ziSyam AsInaM vaizampAyanam antike
+ジャナメージャヤに,バラモンたちに,また兎たちに問われた真理は支配されるべき座っているヴァイシャンパーヤナを近くで.
+janamejayena 男性名詞janamejaya(クル国の王)単数具格
+pRSTaH 動詞prach(問う)過去受動分詞男性単数主格
+san 動詞as(ある)現在能動分詞男性単数主格
+brAhmaNaiH 男性名詞brAhmaNa(バラモン)複数具格
+sahasrazaH 副詞(千の)
+zazAsa 男性名詞zaza(兎)?
+ziSyam 動詞zAs(支配する)未来受動分詞男性単数対格
+AsInam 動詞As(座る)現在反射分詞男性単数対格
+vaizampAyanam 男性名詞vaizampAyana(vyAsaの弟子)単数対格
+antike 形容詞antika(近い)男性単数処格
