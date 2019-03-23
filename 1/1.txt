@@ -778,3 +778,16 @@ ziSyam 動詞zAs(支配する)未来受動分詞男性単数対格
 AsInam 動詞As(座る)現在反射分詞男性単数対格
 vaizampAyanam 男性名詞vaizampAyana(vyAsaの弟子)単数対格
 antike 形容詞antika(近い)男性単数処格
+
+58.sa sadasyaiH sahAsInaH zrAvayAm Asa bhArataM karmAntareSu yajJasya codyamAnaH punaH punaH
+励まさせられら後に彼は座者と共にサダスヤ祭官たちにバラタ族の物語を祭式の休止時間において聞かせた.
+saH 人称代名詞三人称男性単数主格
+sadasyaiH 男性名詞sadasya(soma祭第十七番祭官)複数具格
+saha 副詞(共に)
+AsInaH 動詞As(座る)現在反射分詞男性単数主格
+zrAvayAm Asa 動詞zru(聞く)使役完了能動態三人称単数
+bhAratam 形容詞bhArata(バラタ族の)男性単数対格
+karmAntareSu 中性名詞karmAntara(祭式中の休止時間)複数処格
+yajJasya 男性名詞yajJa(祭式)単数属格
+codyamAnaH 動詞cud(励ます)使役現在受動分詞男性単数主格
+punaH 副詞(後に)
