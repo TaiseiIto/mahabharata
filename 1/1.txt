@@ -804,3 +804,52 @@ dhRtim 女性名詞dhRti(決心)
 samyak 形容詞samyaJc(完全な)中性単数主格
 dvaipAyanaH 男性名詞dvaipAyana(vyAsa)単数主格
 abravIt 動詞bru(言う)過去能動態三人称単数
+
+60.vAsudevasya mAhAtmyaM pANDavAnAM ca satyatAM durvRttaM dhArtarASTrANAm uktavAn bhagavAn RSiH
+ヴァスデーヴァの子の,パーンダヴァ族たちの威徳と真実,ドリタラーシュトラの子らの悪行を聖者は語った.
+vAsudevasya 形容詞vAsuveda(vasudevaに属する)男性単数属格
+mAhAtmyam 中性名詞mAhAtmya(威徳)単数対格
+pANDavAnAm 形容詞pANDava(パーンダヴァ族の)男性複数属格
+satyatAm 女性名詞satyatA(真実)単数対格
+durvRttam 中性名詞durvRtta(悪行)単数対格
+dhArtarASTrANAm 形容詞dhArtarASTra(dhRtarASTraに属する)男性複数属格
+uktavAn 動詞vac(語る)過去能動分詞男性単数主格
+
+61.caturviMzatisAhasrIm cakre bhAratasaMhitAm upAkhyAnair vinA tAvad bhArataM procyate budhaiH
+24000からなるバラタ族の物語の挿話のない本集の部分を彼は作った.彼はそれ程のバラタ族の物語を賢者たちに宣言される.
+caturviMzatisAhasrIm 女性名詞caturviMzatisAhasrI(24,000からなる)単数対格
+cakre 動詞kR(作る)完了反射態三人称単数
+bhAratasaMhitAm 形容詞bhArata(バラタ族の)-女性名詞saMhitA(本集)単数対格
+upAkhyAnaiH 中性名詞upAkhyAna(挿話)複数具格
+vinA 不変辞(具格なしに)
+tAvat 形容詞tAvat(それ程の)男性単数対格
+bhAratam 形容詞bhArata(バラタ族の)男性単数対格
+procyate 動詞pra-vac(宣言する)現在受動態三人称単数
+budhaiH 形容詞budha(賢い)男性複数具格
+
+62.tato 'dhyardhazataM bhUyaH saMkSepaM kRtavAn RSir anukramaNim adhyAyaM vRttAntAnAM saparvaNAm
+彼よりも偉大な聖者が150の破壊,vedaの索引,読書,物語を作った.
+tataH 人称代名詞三人称従格
+adhyardhazatam 形容詞adhyardhazata(150の)男性単数対格
+bhUyaH 動詞bhU(なる)比較級中性単数主格
+saMkSepam 男性名詞saMkSepa(破壊)単数対格
+kRtavAn 動詞kR(作る)過去能動分詞男性単数主格
+RSiH 男性名詞RSi(詩人)男性単数主格
+anukramaNim 女性名詞anukramaNi(vedaの索引)単数対格
+adhyAyam 男性名詞adhyAya(読書)単数対格
+vRttAntAnAm 男性名詞vRttAnta(物語)単数対格
+
+63.idaM dvaipAyanaH pUrvaM putram adhyApayac chukaM tato 'nyebho 'nurUpebhyaH ziSyebhyaH pradadau prabhuH
+さて,ドヴァイパーヤナは前の息子のシュカに学ばせた.優れた彼は他のどの教えられるべき相応しき物語よりも.
+idam 副詞(さて)
+dvaipAyanaH 男性名詞dvaipAyana(vyAsa)単数主格
+pUrvam 形容詞pUrva(前の)男性単数対格
+putram 男性名詞putra(息子)単数対格
+adhyApayat 動詞adhi-i(学ぶ)使役過去能動態三人称単数
+zukam 男性名詞zuka(vyAsaの息子)単数対格
+tataH 人称代名詞三人称従格
+anyebhyaH 形容詞anya(他の)男性複数従格
+anurUpebhyaH 形容詞anurUpa(相応しい)男性複数従格
+ziSyebhyaH 動詞zAs(教える)未来受動分詞男性複数従格
+pradadau 動詞pra-dA(捧げる)完了能動態三人称単数
+prabhuH 形容詞prabhu(優れた)男性単数主格
