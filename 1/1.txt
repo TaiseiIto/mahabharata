@@ -791,3 +791,16 @@ karmAntareSu 中性名詞karmAntara(祭式中の休止時間)複数処格
 yajJasya 男性名詞yajJa(祭式)単数属格
 codyamAnaH 動詞cud(励ます)使役現在受動分詞男性単数主格
 punaH 副詞(後に)
+
+59.vistaraM kuruvaMzasya gAndhAryA dharmazIlatAM kSattuH prajJAM dhRtiM kuntyAH samyag dvaipAyano 'bravIt
+ガーンダーリ族の王女によってクル族の広大な(土地?)とクシャットリの徳と知恵と決心に関してドヴァイパーヤナは全てを語った.
+vistaram 形容詞vistara(広大な)
+kuruvaMzasya 男性名詞kuruvaMza(クル族)単数属格
+gAndhAryA 女性名詞gAndhAri(gAndhAri族の王女)単数具格
+dharmazIlatAm 女性名詞dharmazIlatA(徳)単数対格
+kSattuH 男性名詞kSattR(viduraの称)単数属格
+prajJAm 女性名詞prajJA(知恵)単数対格
+dhRtim 女性名詞dhRti(決心)
+samyak 形容詞samyaJc(完全な)中性単数主格
+dvaipAyanaH 男性名詞dvaipAyana(vyAsa)単数主格
+abravIt 動詞bru(言う)過去能動態三人称単数
