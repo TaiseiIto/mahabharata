@@ -853,3 +853,16 @@ anurUpebhyaH 形容詞anurUpa(相応しい)男性複数従格
 ziSyebhyaH 動詞zAs(教える)未来受動分詞男性複数従格
 pradadau 動詞pra-dA(捧げる)完了能動態三人称単数
 prabhuH 形容詞prabhu(優れた)男性単数主格
+
+64.nArado 'zrAvayad devAn asito devalaH pitRRn gandharvayakSarakSAMsi zrAvayAm Asa vai zukaH
+ナーラダ仙は神々に聞かせた.アシタ仙,デーヴァラ仙は父たちに,ガンダルヴァ,ヤクシャ,ラクシャスたちに聞かせた.そしてシュカも.
+nAradaH 男性名詞nArada(nArada仙)単数主格
+azrAvayat 動詞zru(聞く)使役過去能動態三人称単数
+devAn 男性名詞deva(神)複数対格
+asitaH 男性名詞asita(asita仙)単数主格
+devalaH 男性名詞devala(asita仙の息子devala)単数主格
+pitRRn 男性名詞pitR(父)複数対格
+gandharvayakSarakSAMsi 男性名詞gandharva-男性名詞yakSa-中性名詞rakSas複数対格
+zrAvayAm Asa 動詞zru(聞く)使役完了能動態三人称単数
+vai 強調の不変辞
+zukaH 男性名詞zuka(vyAsaの息子)単数主格
