@@ -866,3 +866,19 @@ gandharvayakSarakSAMsi 男性名詞gandharva-男性名詞yakSa-中性名詞rakSa
 zrAvayAm Asa 動詞zru(聞く)使役完了能動態三人称単数
 vai 強調の不変辞
 zukaH 男性名詞zuka(vyAsaの息子)単数主格
+
+65.duryodano manyumayo mahAdrumaH skandhaH karNaH zakunis tasya zAkhA duHzAsanaH puSpaphale samRddhe mUlaM rAjA dhRtarASTro 'manISI
+ドゥルヨーダナは怒れる大木である.その幹は彼の耳,その鳥は彼の手足である.多くの花と果実において制御し難きドリタラーシュトラ王は根を.
+manyumayaH 形容詞manyumaya(憤怒からなる)男性単数主格
+mahAdrumaH 男性名詞mahAdruma(大樹)単数主格
+skandhaH 男性名詞skandha(幹)単数主格
+karNaH 男性名詞karNa(耳)単数主格
+zakuniH 男性名詞zakuni(鳥)単数主格
+tasya 人称代名詞三人称男性単数属格
+zAkhAH 女性名詞zAkhA(手足)複数主格
+duHzAsanaH 形容詞duHzAsana(制御しがたき)男性単数主格
+puSpaphale 中性名詞puSpa(花)-中性名詞phala(果実)単数処格
+samRddhe 動詞sam-Rdh(富む)過去受動分詞中性単数処格
+mUlam 中性名詞mUla(根)単数対格
+rAjA 男性名詞rAjan(王)単数主格
+amanISI ?
