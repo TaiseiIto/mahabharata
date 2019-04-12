@@ -868,7 +868,7 @@ vai 強調の不変辞
 zukaH 男性名詞zuka(vyAsaの息子)単数主格
 
 65.duryodano manyumayo mahAdrumaH skandhaH karNaH zakunis tasya zAkhA duHzAsanaH puSpaphale samRddhe mUlaM rAjA dhRtarASTro 'manISI
-ドゥルヨーダナは怒れる大木である.その幹は彼の耳,その鳥は彼の手足である.多くの花と果実において制御し難きドリタラーシュトラ王は根を.
+ドゥルヨーダナは怒れる大木である.その幹は彼の耳,その鳥は彼の手足である.多くの花と果実において制御し難き根であるドリタラーシュトラ王は思慮に欠ける.
 manyumayaH 形容詞manyumaya(憤怒からなる)男性単数主格
 mahAdrumaH 男性名詞mahAdruma(大樹)単数主格
 skandhaH 男性名詞skandha(幹)単数主格
@@ -881,4 +881,36 @@ puSpaphale 中性名詞puSpa(花)-中性名詞phala(果実)単数処格
 samRddhe 動詞sam-Rdh(富む)過去受動分詞中性単数処格
 mUlam 中性名詞mUla(根)単数対格
 rAjA 男性名詞rAjan(王)単数主格
-amanISI ?
+amanISI 否定a-形容詞manISin(思慮ある)男性単数主格
+
+66.yudhiSTiro dharmamayo mahAdrumaH skandho 'rjuno bhImaseno 'sya zAkhA mAdrI sutau puSpaphale samRddhe mUlaM kRSNo brahma ca brAhmaNAz ca
+ユディシュティラは正義の大木である.その幹はアルジュナであり,ビーマは彼の手足である.マードリーは多くの花と果実において2人の息子を.その根はクリシュナであり呪力でありバラモンである.
+dharmamayaH 形容詞dharmamaya(法からなる)
+mAdrI 女性名詞mAdrI(パーンドゥ王の第二王妃でナクラとサハデーヴァの母)単数主格
+sutau 動詞su(生む)過去受動分詞男性双数対格
+
+67.pANDur jitvA bahUn dezAn yudhA vikramaNena ca araNye mRgayA zIlo nyavasat sajanas tadA
+パーンドゥは戦闘と威力によって多くの地方で勝利して狩猟を生業とする人々が住んでいる遠方に住んだ.
+bahUn 形容詞bahu(多くの)男性複数対格
+dezAn 男性名詞deza(地方)複数対格
+yudhA 女性名詞yudh(戦闘)単数具格
+vikramaNena 男性名詞vikramaNa(威力)単数具格
+araNye 中性名詞araNya(遠方)単数処格
+mRgayA 女性名詞mRgayA(狩猟)単数主格
+zIlaH 男性名詞zIla(気質)単数主格
+nyavasat 第一類動詞ni-vas(住む)直説法過去能動態三人称単数
+sajanaH 形容詞sajana(人々が住んでいる)男性単数主格
+tadA 副詞(その時)
+
+68.mRgavyavAya nidhane kRcchrAM prApa sa ApadaM janmaprabhRti pArthAnAM tatrAcAravidhikramaH
+生まれてこのかた彼は狩猟のために貧困において王子たちの苦しい逆境をここに命じた.
+mRgavyavAya 中性名詞mRgavyava(狩猟)単数為格
+nidhane 形容詞nidhana(貧しい)男性単数処格
+kRcchrAm 形容詞kRcchra(苦しい)女性単数対格
+prApa ?
+saH 人称代名詞三人称男性単数主格
+Apadam 女性名詞Apad(逆境)単数対格
+janmaprabhRti 副詞(生まれてこのかた)
+pArthAnAm 男性名詞pArtha(pANDuの妻pRthA(kuntI)に属する者)複数属格
+tatra 副詞(ここに)
+AcAra 男性名詞AcAra(行為)-男性名詞vidhi(命令)-男性名詞krama(攻撃)
