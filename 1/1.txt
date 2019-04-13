@@ -914,3 +914,28 @@ janmaprabhRti 副詞(生まれてこのかた)
 pArthAnAm 男性名詞pArtha(pANDuの妻pRthA(kuntI)に属する者)複数属格
 tatra 副詞(ここに)
 AcAra 男性名詞AcAra(行為)-男性名詞vidhi(命令)-男性名詞krama(攻撃)
+
+69.mAtror abhyupapattiz ca dharmopaniSadaM prati dharmasya vAyoH zakrasya devayoz ca tathAzvinoH
+2人の母の助力は,法の奥義に対する力強い法の2柱の風神アシュヴィン双神によるもの.
+mAtroH 女性名詞mAtR(母)双数属格処格
+abhyupapattiH 女性名詞abhyupapatti(助力)単数主格
+dharmopaniSadam 男性名詞dharma(法)-女性名詞upaniSad(奥義)単数対格
+prati 副詞(~に対して)
+dharmasya 男性名詞dharma(法)単数属格
+vAyoH 男性名詞vAyu(風)双数属格処格
+zakrasya 形容詞zakra(強い)男性単数属格
+devayoH 男性名詞deva(神)双数属格処格
+tathA 副詞(そのように)
+azvinoH 男性名詞azvin(アシュヴィン双神)双数属格処格
+
+70.tApasaiH saha saMvRddhA mAtRbhyAM parirakSitA medhyAraNyeSu puNyeSu mahatAm AzrameSu ca
+苦行者たちと共に生長し,母たちによって保護された者たちは清らかな山林の大きな隠遁処において
+tApasaiH 男性名詞tApasa(苦行者)複数具格
+saha 副詞(具格と共に)
+saMvRddhAH 動詞sam-vRdh(生長する)過去受動分詞男性複数主格
+mAtRbhyAm 女性名詞mAtR(母)複数具格
+parirakSitAH 動詞pari-rakS(保護する)過去受動分詞男性複数主格
+medhyAraNyeSu 形容詞medhya(供物の)-形容詞AraNya(山に住む)男性複数処格
+puNyeSu 形容詞puNya(幸運な)男性複数処格
+mahatAm 形容詞mahat(偉大な)男性複数処格
+AzrameSu 男性名詞Azrama(隠遁処)複数処格
