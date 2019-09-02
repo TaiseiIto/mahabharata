@@ -939,3 +939,16 @@ medhyAraNyeSu 形容詞medhya(供物の)-形容詞AraNya(山に住む)男性複�
 puNyeSu 形容詞puNya(幸運な)男性複数処格
 mahatAm 形容詞mahat(偉大な)男性複数処格
 AzrameSu 男性名詞Azrama(隠遁処)複数処格
+
+71.RSibhiz ca tadA nItA dhArtarASTrAn prati svayaM zizavaz cAbhirUpAz ca jaTalA brahmacAriNaH
+その時彼らは美しく髪を結んだ禁欲者たちと共にドリタラーシュトラの一族の方へ詩人たちに導かれた．
+RSibhiH 男性名詞RSi(詩人)複数具格
+tadA 副詞(その時)
+nItA 動詞nI(導く)過去受動分詞男性複数主格
+dhArtarASTrAn 形容詞dhArtarASTra(dhRtarASTraに属する)男性複数対格
+prati 副詞(対格の方へ)
+svayam 副詞(~と共に)
+zizavaH 語根zi(鋭くする)-男性名詞zava(死骸)?単数主格
+abhirUpAH 形容詞abhirUpa(美しい)男性複数主格
+jatAlAH 形容詞jaTala(髪を結んだ)男性複数主格
+brahmacAriNaH 形容詞brahmacArin(禁欲する)男性複数主格
