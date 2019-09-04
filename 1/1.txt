@@ -952,3 +952,37 @@ zizavaH 語根zi(鋭くする)-男性名詞zava(死骸)?単数主格
 abhirUpAH 形容詞abhirUpa(美しい)男性複数主格
 jatAlAH 形容詞jaTala(髪を結んだ)男性複数主格
 brahmacAriNaH 形容詞brahmacArin(禁欲する)男性複数主格
+
+72.putrAz ca bhrAtaraz ceme ziSyAz ca suhRdaz ca vaH pANDavA eta ity uktvA munayo 'ntarhitAs tataH
+消滅した苦行者たちは，あなたがたパーンダヴァ族の息子，兄弟，友人らは，支配されるべき者達であると言い，
+putrAH 男性名詞putra(息子)複数主格
+bhrAtaraH 男性名詞bhrAtR(兄弟)複数主格
+ime 近称代名詞男性複数主格
+suhRdaH 男性名詞suhRd(友人)複数主格
+ziSyAH 動詞zAs(支配する)未来受動分詞男性複数主格
+vaH 人称代名詞二人称複数属格
+pANDavAH 男性名詞pANDava(パーンダヴァ族)複数主格
+ete 近称代名詞etad男性複数主格
+iti 不変辞(~であるということを)
+uktvA 動詞vac(言う)絶対詞
+munayaH 男性名詞muni(苦行者)複数主格
+antarhitAH 接頭辞antar(内に)-動詞han(殺す)過去受動分詞男性複数主格
+tataH 人称代名詞三人称従格
+
+73.tAMs tair niveditAn dRSTvA pANDavAn kauravAs tadA ziSTAz ca varNAH paurA ye te harSAc cukruzur bhRzam
+その時極度に喜びから痩せてしまったカウラヴァ族，支配されし者たち，市民たちは，彼らによって語られし彼らパーンダヴァ族を見て，
+tAn 人称代名詞三人称男性複数対格
+taiH 人称代名詞三人称男性複数具格
+niveditAn 動詞ni-vid(知らせる)過去受動分詞男性複数対格
+dRSTvA 動詞dRz(見る)絶対詞
+pANDavAn 男性名詞pANDava(パーンダヴァ族)複数対格
+kauravAH 男性名詞kaurava(カウラヴァ族)複数主格
+tadA 副詞(その時)
+ziSTAH 動詞zAs(支配する)過去受動分詞男性複数主格
+varNAH 男性名詞varNa(色)複数主格
+paurAH 形容詞paura(市民の)男性複数主格
+ye 関係代名詞男性複数主格
+te 人称代名詞三人称複数主格
+harSAt 男性名詞harSa(喜び)単数従格
+cukruzuH 動詞kRz(痩せる)完了能動態三人称複数
+bhRzam 副詞(極度に)
