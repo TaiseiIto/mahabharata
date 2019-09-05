@@ -986,3 +986,18 @@ te 人称代名詞三人称複数主格
 harSAt 男性名詞harSa(喜び)単数従格
 cukruzuH 動詞kRz(痩せる)完了能動態三人称複数
 bhRzam 副詞(極度に)
+
+74.AhuH ke cin na tasyaite tasyaita iti cApare yadA cid amRtaH pANDuH kathaM tasyeti cApare
+彼らについてある者たちは彼らのものは彼らのものではないと言った．またパーンドゥの甘露がなぜいつも彼のものであろうかと言った．
+AhuH 動詞ah(言う)完了能動態三人称複数
+ke cit 不定代名詞男性複数主格
+na 不変辞(~ない)
+tasya 人称代名詞三人称男性単数属格
+ete 近称代名詞男性複数主格
+iti 不変辞(~であるということを)
+ca 不変辞(~もまた)
+apare 副詞(それについて)
+yadA cit 接続詞(~であるときはいつでも)
+amRtaH 否定辞a-動詞mR(死ぬ)過去受動分詞男性単数主格
+pANDuH 男性名詞pANDu単数主格
+katham 副詞(なぜ)
