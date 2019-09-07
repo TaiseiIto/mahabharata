@@ -1015,3 +1015,31 @@ iti 不変辞(~であるということを)
 vAcaH 女性名詞vAc(言葉)複数主格
 azrUyanta 動詞zru(聞く)直説法過去受動態三人称複数
 sarvazaH 副詞(全く)
+
+76.tasminn uparate zabde dizaH sarvA vinAdayann antarhitAnAM bhUtAnAM nisvanas tumulo 'bhavat
+その静かな音をすべての方角に響き渡らせ，滅びた者たちの騒がしい声があった．
+tasmin 人称代名詞三人称男性単数処格
+uparate 動詞upa-ram(止まる)過去受動分詞男性単数処格
+zabde 男性名詞zabda(音)単数処格
+dizaH 女性名詞diz(方向)複数主格
+sarvAH 形容詞sarva(全ての)女性複数主格
+vinAdayan 動詞vi-nad(響き渡る)使役直説法過去能動態三人称複数
+antarhitANAm 動詞antar-動詞han(滅する)過去受動分詞男性複数属格
+bhUtAnAm 動詞bhU(なる)過去受動分詞男性複数属格
+nisvanaH 男性名詞nisvana(音)単数主格
+tumulaH 形容詞tumula(騒がしい)男性単数主格
+abhavat 動詞bhU(なる)直説法過去能動態三人称単数
+
+77.puSpavRSTiM zubhA gandhAH zaGkhadundubhinisvanA Asan praveze pArthAnAM tad adbhutam ivAbhavat
+花の雨と美しい香りと貝や太鼓の音があった．パーンダヴァ家の入り口において不可思議なそれのようであった．
+puSpavRSTim 中性名詞puSpa(花)-女性名詞vRSTi(雨)単数対格
+zubhAH 形容詞zubha(美しい)男性複数主格
+gandhAH 男性名詞gandha(香り)複数主格
+zaGkhadundubhinisvanA 男性名詞zankha(貝)-男性名詞dundubhi(太鼓)-男性名詞nisvana(音)複数主格
+Asan 動詞as(ある)直説法過去能動態三人称複数
+praveze 男性名詞praveza(処格属格に入ること)単数処格
+pArthAnAm 男性名詞pArtha(pRthaの者=pANDava)複数属格
+tat 人称代名詞三人称中性単数主格
+adbhutam 形容詞adbhuta(不可思議な)中性単数主格
+iva 副詞(~のように)
+abhavat 動詞bhU(なる)直接能過去能動態三人称単数
