@@ -1043,3 +1043,19 @@ tat 人称代名詞三人称中性単数主格
 adbhutam 形容詞adbhuta(不可思議な)中性単数主格
 iva 副詞(~のように)
 abhavat 動詞bhU(なる)直接能過去能動態三人称単数
+
+78.tat prItyA caiva sarveSAM paurANAM harSasaMbhavaH zabda AsIn mahAMs tatra divaspRk kIrtivardhanaH
+それは全市民の喜びによるもの．喜びから生じた音はそこにおいて天に届くほど増大した．
+tat 人称代名詞三人称中性単数主格対格
+prItyA 女性名詞prIti(喜び)単数具格
+ca 不変辞(~もまた)
+eva 副詞(まさに)
+sarveSAm 形容詞sarva(全ての)男性複数属格
+paurANAm 形容詞paura(都市の)男性複数属格
+harSasaMbhavaH 男性名詞harSa(喜び)-形容詞saMbhava(~から生じる)
+zabdaH 男性名詞zabda(音)単数主格
+AsIt 動詞as(ある)直説法過去能動態三人称単数
+mahAn 形容詞mahat(偉大な)男性単数主格
+tatra 副詞(そこにおいて)
+divaspRk 形容詞divaspRz(天に触れるほどの)男性単数主格
+kIrtivardhanaH 女性名詞kIrti(名誉)-形容詞vardhana(繁栄する)男性単数主格
