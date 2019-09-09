@@ -1059,3 +1059,33 @@ mahAn 形容詞mahat(偉大な)男性単数主格
 tatra 副詞(そこにおいて)
 divaspRk 形容詞divaspRz(天に触れるほどの)男性単数主格
 kIrtivardhanaH 女性名詞kIrti(名誉)-形容詞vardhana(繁栄する)男性単数主格
+
+79.te 'py adhItyAkhilAn vedAJ zAstrANi vividhAni ca nyavasan pANDavAs tatra pUjitA akutobhayAH
+恐れるもの無く尊ばれし彼らパーンダヴァ家もまた全てのヴェーダや様々な聖典を研究することによってそこに住んだ．
+te 人称代名詞三人称男性複数主格
+api 後置詞(~もまた)
+adhItyA 女性名詞adhIti(研究)単数具格
+akhilAn 形容詞akhila(全ての)男性複数対格
+vedAn 男性名詞veda複数対格
+zAstrANi 中性名詞zAstra(聖典)複数対格
+vividhAni 形容詞vividha(様々な)
+ca 後置詞(~もまた)
+nyavasan 動詞ni-vas(処格に住む)直説法過去能動態三人称複数
+pANDavAH 男性名詞pANDava(パーンダヴァ家)複数主格
+tatra 副詞(そこにおいて)
+pUjitAH 動詞pUj(尊ぶ)過去受動分詞男性複数主格
+akutobhayAH 形容詞akutobhaya(何も恐れない)男性複数主格
+
+80.yudhiSThirasya zaucena prItAH prakRtayo 'bhavan dhRtyA ca bhImasenasya vikrameNArjunasya ca
+ユディシュティラの清らかさ，ビーマセーナの堅固さ，アルジュナの闊歩によって喜びの本質がなった．
+yudhiSThirasya 男性名詞yudhiSThira単数属格
+zaucena 中性名詞zauca(清浄)単数具格
+prItAH 動詞prI(喜ばせる)過去受動分詞女性複数主格
+prakRtayaH 女性名詞prakRti(本性)複数主格
+abhavan 動詞bhU(なる)直説法過去能動態三人称複数
+dhRtyA 女性名詞dhRti(堅固)単数具格
+ca 後置詞(~もまた)
+bhImasenasya 男性名詞bhImanena単数属格
+vikrameNa 男性名詞vikrama(歩行)単数具格
+arjunasya 男性名詞arjuna単数属格
+
