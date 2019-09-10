@@ -1089,3 +1089,28 @@ bhImasenasya 男性名詞bhImanena単数属格
 vikrameNa 男性名詞vikrama(歩行)単数具格
 arjunasya 男性名詞arjuna単数属格
 
+81.guruzuzrUSayA kuntyA yamayor vinayena ca tutoSa lokaH sakalas teSAM zauryaguNena ca
+クンティーの服従，双子の鍛錬，彼らの業績によって全世界は満足した．
+guruzuzrUSayA 女性名詞guruzuzrUSA(師への服従)単数具格
+kuntyA 女性名詞kuntI(pANDuの妻)単数具格
+yamayoH 形容詞yama(双子)双数属格
+vinayena 形容詞vinaya(鍛錬)単数具格
+ca 後置詞(~もまた)
+tutoSa 動詞tuS(満足する)完了能動態三人称単数
+lokaH 男性名詞loka(世界)単数主格
+sakalaH 形容詞sakala(全部)男性単数主格
+teSAm 人称代名詞三人称男性複数属格
+zauryaguNena 中性名詞zaurya(英雄的行為)-男性名詞guNa(功徳)単数具格
+
+82.samavAye tato rAjJAM kanyAM bhartRsvayaMvarAM prAptavAn arjunaH kRSNAM kRtvA karmasuduSkaram
+王たちの会合において彼から彼自身の所有であった最も美しい黒い少女を獲得したアルジュナは厳しい行をなし，
+samavAye 男性名詞samavAya(会合)単数処格
+tataH 人称代名詞三人称従格
+rAjJAm 男性名詞rAjan(王)複数属格
+kanyAm 女性名詞kanyA(少女)単数対格
+bhartR 男性名詞bhartR(保持者)-不変辞svayam(自身)-形容詞vara(最も美しい)女性単数対格
+prAptavAn 動詞pra-Ap(獲得する)過去能動分詞男性単数主格
+arjunaH 男性名詞arjuna単数主格
+kRSNAm 形容詞kRSNa(黒い)女性単数対格
+kRtvA 動詞kR(する)絶対詞
+karmasuduSkaram 中性名詞karma(業)-形容詞suduSkara(難しい)単数対格
