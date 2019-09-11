@@ -1114,3 +1114,34 @@ arjunaH 男性名詞arjuna単数主格
 kRSNAm 形容詞kRSNa(黒い)女性単数対格
 kRtvA 動詞kR(する)絶対詞
 karmasuduSkaram 中性名詞karma(業)-形容詞suduSkara(難しい)単数対格
+
+83.tataH prabhRti loke 'smin pUjyaH sarvadhanuSmatAm Aditya iva duSprekSyaH samareSv api cAbhavat
+その時からこの世界において全ての射手達に崇拝されるべきアーディティアのように戦闘においても認知し難かった．
+tataH 人称代名詞三人称従格
+prabhRti 副詞(従格の時から)
+loke 男性名詞loka(世界)単数処格
+asmin 近称代名詞男性単数処格
+pUjyaH 動詞pUj(崇拝する)未来受動分詞男性単数主格
+sarvadhanuSmatAm 形容詞sarva(全ての)-男性名詞dhanu(弓)所有形容詞男性複数処格
+Aditya 女性名詞aditi所属形容詞男性単数主格
+iva 後置詞(~のように)
+duSprekSyaH 接頭辞duS(悪く)-動詞pra-IkS(見る)未来受動分詞男性単数主格
+samareSu 男性名詞samara(戦闘)複数処格
+api 後置詞(~もまた)
+ca 後置詞(~もまた)
+abhavat 動詞bhU(なる)直説法過去能動態三人称複数
+
+84.sa sarvAn pArthivAJ jitvA sarvAMz ca mahato gaNAn AjahArArjuno rAjJe rAjasUyaM mahAkratum
+アルジュナは全ての戦士に勝ち，全ての偉大な軍勢，灌頂，偉大な力を王に与えた．
+saH 人称代名詞三人称男性単数主格
+sarvAn 形容詞sarva(全ての)男性複数主格
+pArthivAn 女性名詞pRthivI(地)所属形容詞(戦士)男性複数対格
+jitvA 動詞ji(征服する)絶対詞
+ca 後置詞(~もまた)
+mahataH 形容詞mahat(偉大な)男性複数対格
+gaNAn 男性名詞gaNa(軍勢)複数対格
+AjahAra 動詞A-hR(与える)完了能動態三人称単数
+arjunaH 男性名詞arjuna単数主格
+rAjJe 男性名詞rAj(王)単数為格
+rAjasUyam 男性名詞rAjasUya(王の灌頂)単数対格
+mahAkratum 接頭辞mahA(偉大な)-男性名詞kratu(力)単数対格
