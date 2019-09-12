@@ -1159,7 +1159,18 @@ saMprAptaH 動詞sam-pra-Ap(到達する)過去受動分詞男性単数主格
 rAjasUyaH 男性名詞rAjasUya(王の灌頂)単数主格
 mahAkratuH 接頭辞mahA(偉大な)-男性名詞kratu(力)単数主格
 
-86.duryodhanam upAgacchann arhaNAni tatas tato maNikAJcanaratnAni gohastyazvadhanAni ca
+86.sunayAd vAsudevasya bhImArjunabalena ca ghAtayitvA jarAsaMdhaM caidyaM ca balagarvitam
+ヴァースデーヴァの賢明な行動からビーマとアルジュナの力により力誇れるジャラーサンダとチェーディ族を殺害し
+sunayAt 男性名詞sunaya(賢明な行動)単数従格
+vAsudevasya 男性名詞vAsudeva単数属格
+bhImArjunabalena 男性名詞bhIma-男性名詞arjuna-中性名詞bala(力)単数具格
+ghAtayitvA 形容詞ghAta(殺害する)第十類動詞絶対
+jarAsaMdhaM 男性名詞jarAsaMdha(dhRtarASTraの子)単数対格
+caidyam 男性名詞cedi(民族名)所属形容詞男性単数対格
+ca 後置詞(~もまた)
+balagarvitam 中性名詞bala(力)-形容詞garvita(誇れる)男性単数対格
+
+87.duryodhanam upAgacchann arhaNAni tatas tato maNikAJcanaratnAni gohastyazvadhanAni ca
 彼らのものであった宝石，黄金，牛，象，馬，これらの財宝はドゥルヨーダナのものとなった
 duryodhanam 男性名詞duryodhana単数対格
 upAgacchan 動詞upa-gam(近づく)直説法過去能動態三人称複数
@@ -1168,3 +1179,4 @@ tataH 人称代名詞三人称従格
 maNikAJcanaratnAni 男性名詞maNi(宝石)-中性名詞kAJcana(黄金)-中性名詞ratna(財宝)複数主格
 gohastyazvadhanAni 女性名詞go(牛)-男性名詞hastin(象)-男性名詞azva(馬)-中性名詞dhana(財宝)複数主格
 ca 後置詞(~もまた)
+
