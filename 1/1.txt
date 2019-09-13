@@ -1180,3 +1180,32 @@ maNikAJcanaratnAni 男性名詞maNi(宝石)-中性名詞kAJcana(黄金)-中性�
 gohastyazvadhanAni 女性名詞go(牛)-男性名詞hastin(象)-男性名詞azva(馬)-中性名詞dhana(財宝)複数主格
 ca 後置詞(~もまた)
 
+88.samRddhAM tAM tathA dRSTvA pANDavAnAM tadA zriyam IrSyA samutthaH sumahAMs tasya manyur ajAyata
+パーンダヴァ家の栄華を目の当たりにし，彼に嫉妬と憤怒が生じた．
+samRddhAm 動詞sam-Rdh(繁栄する)過去受動分詞女性単数対格
+tAm 人称代名詞三人称女性単数対格
+tathA 副詞(そのように)
+dRSTvA 動詞dRz(見る)絶対詞
+pANDavAnAm 男性名詞pANDu所属形容詞男性複数属格
+tadA 副詞(その時)
+zriyam 女性名詞zrI(栄光)単数対格
+IrSyA 女性名詞IrSyA(嫉妬)
+samutthaH 形容詞samuttha(従格から生まれた)男性単数主格
+sumahAn 形容詞sumahas(栄光ある)男性単数主格
+tasya 人称代名詞三人称男性単数属格
+manyuH 男性名詞manyu(激情)単数主格
+ajAyata 動詞jan(生まれる)直説法過去反射態三人称単数
+
+89.vimAnapratimAM cApi mayena sukRtAM sabhAM pANDavAnAm upahRtAM sa dRSTvA paryatapyata
+神々の宮殿のように立派な，パーンダヴァ家のために建てられた宮殿を彼は見て苦しんだ．
+vimAnapratimAm 形容詞vimAna(神々の宮殿のような)女性単数対格
+ca 後置詞(~もまた)
+api 後置詞(~もまた)
+mayena 形容詞maya(造られた)男性単数具格
+sukRtAm 動詞su-kR(よく造る)過去受動分詞女性単数対格
+sabhAm 女性名詞sabhA(宮殿)単数対格
+pANDavAnAm 男性名詞pANDu所有形容詞男性複数属格
+upahRtAm 動詞upa-hR(贈る)過去受動分詞女性単数対格
+saH 人称代名詞三人称男性単数主格
+dRSTvA 動詞dRz(見る)絶対詞
+paryatapyata 動詞pari-tap(苦しませる)直説法過去受動態三人称単数
