@@ -1209,3 +1209,17 @@ upahRtAm 動詞upa-hR(贈る)過去受動分詞女性単数対格
 saH 人称代名詞三人称男性単数主格
 dRSTvA 動詞dRz(見る)絶対詞
 paryatapyata 動詞pari-tap(苦しませる)直説法過去受動態三人称単数
+
+90.yatrAvahasitaz cAsIt praskandann iva saMbhramAt pratyakSaM vAsudevasya bhImenAnabhijAtavat
+あざ笑われた者もまた熱意により攻撃する如く，ヴァスデーヴァの子の明かに下賤な生まれのものをビーマによって
+yatra 関係代名詞処格
+avahasitaH 動詞ava-has(あざ笑う)過去受動分詞男性単数主格
+ca 後置詞(~もまた)
+AsIt 動詞as(ある)直説法過去能動態三人称単数
+praskandan 動詞pra-skand(攻撃する)現在能動分詞男性単数主格
+iva 副詞(~のごとく)
+saMbhramAt 男性名詞saMbhrama(熱意)単数従格
+pratyakSam 形容詞pratyakSa(明白な)
+vAsudevasya 形容詞vAsuveda(vasudevaに属する)男性単数属格
+bhImena 男性名詞bhIma単数具格
+anabhijAtavat 否定接頭辞an-動詞abhi-jan(高貴な血統に生まれる)過去能動分詞中性単数対格
