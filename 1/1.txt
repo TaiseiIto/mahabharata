@@ -1223,3 +1223,18 @@ pratyakSam 形容詞pratyakSa(明白な)
 vAsudevasya 形容詞vAsuveda(vasudevaに属する)男性単数属格
 bhImena 男性名詞bhIma単数具格
 anabhijAtavat 否定接頭辞an-動詞abhi-jan(高貴な血統に生まれる)過去能動分詞中性単数対格
+
+91.sa bhogAn vividhAn bhuJjan ratnAni vividhAni ca kathito dhRtarASTrasya vivarNo hariNaH kRzaH
+彼は諸々の享受と諸々の財宝を享受する.ドリタラーシュトラの煮られたガゼルは色あせて弱弱しい.
+saH 人称代名詞三人称男性単数主格
+bhogAn 男性名詞bhoga(享受)複数対格
+vividhAn 形容詞vividha(諸々の)男性複数対格
+bhuJjan 動詞bhuj(享受する)現在能動分詞男性単数主格
+ratnAni 中性名詞ratna(財宝)複数対格
+vividhAni 形容詞vividha(諸々の)中性複数対格
+ca 後置詞(~もまた)
+kathitaH 動詞kvath(煮る)過去受動分詞男性単数主格
+dhRtarASTrasya 男性名詞dhRtarASTra単数属格
+vivarNaH 形容詞vi-varNa(色褪せた)男性単数主格
+hariNaH 男性名詞hariNa(ガゼル)単数主格
+kRzaH 形容詞kRza(弱弱しい)男性単数主格
