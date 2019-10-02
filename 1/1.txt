@@ -1238,3 +1238,32 @@ dhRtarASTrasya 男性名詞dhRtarASTra単数属格
 vivarNaH 形容詞vi-varNa(色褪せた)男性単数主格
 hariNaH 男性名詞hariNa(ガゼル)単数主格
 kRzaH 形容詞kRza(弱弱しい)男性単数主格
+
+92.anvajAnAd ato dyUtaM dhRtarASTraH sutapriyas tac chrutvA vAsudevasya kopaH samabhavan mahAn
+そして息子を寵愛するドリタラーシュトラは賭博を許した.それを聞いてヴァースデーヴァの怒りは大きくなった.
+anvajAnAt 動詞anu-jJA(許す)直説法過去能動態三人称単数
+ataH 近称代名詞従格
+dyUtam 中性名詞dyUta(賭博)単数対格
+dhRtarASTraH 男性名詞dhRtarASTra単数主格
+sutapriyaH 動詞su(産む)過去受動分詞-形容詞priya(寵愛される)男性単数主格
+tat 人称代名詞三人称中性単数対格
+zrutvA 動詞zru(聞く)絶対詞
+vAsudevasya 男性名詞vAsudeva単数属格
+kopaH 男性名詞kopa(憤怒)単数主格
+samabhavat 動詞sam-bhU(~となる)直説法過去能動態三人称単数
+mahAn 形容詞mahat(大きな)男性単数主格
+
+93.nAtiprItimanAz cAsId vivAdAMz cAnvamodata dyUtAdIn anayAn ghorAn pravRddhAMz cApy upaikSata
+それほど喜んでもいなかった心は訴訟を喜んだ.賭博のはじめの増大した悪行を彼は見破った.
+nAtiprIti 接頭辞na(ない)-接頭辞ati(あまりにも)-女性名詞prIti(喜び)-中性名詞manas(心)男性単数主格
+ca 後置詞(~もまた)
+AsIt 動詞as(ある)直説法過去能動態三人称単数
+vivAdAn 男性名詞vivAda(訴訟)複数対格
+ca 後置詞(~もまた)
+anvamodata 動詞anu-mud(喜ぶ)直説法過去反射態三人称単数
+dyUtAdIn 中性名詞dyUta(賭博)-男性名詞adi(初め)複数対格
+anayAn 男性名詞anaya(悪行)複数対格
+pravRddhAn 動詞pra-vRdh(増大する)過去受動分詞男性複数対格
+ca 後置詞(~もまた)
+api 後置詞(~もまた)
+upaikSata 動詞upa-IkS(看破する)直説法過去反射態三人称単数
