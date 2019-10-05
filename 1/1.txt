@@ -1268,3 +1268,17 @@ pravRddhAn 動詞pra-vRdh(増大する)過去受動分詞男性複数対格
 ca 後置詞(~もまた)
 api 後置詞(~もまた)
 upaikSata 動詞upa-IkS(看破する)直説法過去反射態三人称単数
+
+94.nirasyaviduraM droNaM bhISmaM zAradvataM kRpaM vigrahe tumule tasminn ahan kSatraM parasparam
+追放されるべきヴィドゥラ，ドローナ，ビーシュマ，シャーラドヴァタ，クリパをその激しい戦闘において両国は殺した．
+nirasyaviduram 動詞nir-as(追放する)未来受動分詞-男性名詞vidura(vyAsaの子でpANDuやdhRtarASTraの弟)単数対格
+droNam 男性名詞droNa(kaurava家とpANDAva家に戦法を教えた師)単数対格
+bhISmam 男性名詞bhISma(kaurava軍の指導者)単数対格
+zAradvatam 男性名詞zAradvata(kaNva仙の弟子)単数対格
+kRpam 男性名詞kRpa単数対格
+vigrahe 男性名詞vigraha(闘争)単数処格
+tumule 形容詞tumula(騒然とした)男性単数処格
+tasmin 人称代名詞三人称男性単数処格
+ahan 動詞han(殺す)直説法過去能動態三人称単数
+kSatram 中性名詞kSatra(国)単数主格
+parasparam 形容詞paraspara(双方の)中性単数主格
