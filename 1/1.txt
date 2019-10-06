@@ -1282,3 +1282,22 @@ tasmin 人称代名詞三人称男性単数処格
 ahan 動詞han(殺す)直説法過去能動態三人称単数
 kSatram 中性名詞kSatra(国)単数主格
 parasparam 形容詞paraspara(双方の)中性単数主格
+
+95.jayatsu pANDuputreSu zrutvA sumahad apriyaM duryodhanamataM jJAtvA karNasya zakunes tathA dhRtarASTraz ciraM dhyAtvA saMjayaM vAkyam abravIt
+勝利するパーンドゥの子たちにドゥルヨーダナはとても不快であると聞き，カルナとシャクニをそのように従わせ，ドリタラーシュトラは長い間考えて完勝の言葉を述べた．
+jayatsu 動詞ji(勝つ)現在能動分詞男性複数処格
+pANDuputreSu 男性名詞pANDu-男性名詞putra(息子)複数処格
+zrutvA 動詞zru(聞く)絶対詞
+sumahat 接頭辞su(とても)-形容詞mahat(大きな)中性単数対格
+apritam 接頭辞a(あらざる)-形容詞priya(喜ばしい)中性単数対格
+duryodhanamatam 男性名詞duryodhana(kaurava家の長男)-動詞man(知る)過去受動分詞中性単数対格
+jJAtvA 動詞jJA(属格を従わせる)絶対詞
+karNasya 男性名詞karNa(太陽神sUryaとpANDuの妃kuntIの子)単数属格
+zakuneH 男性名詞zakuni(kaurava家の母gAndhArIの兄gAndhAraの別名)単数属格
+tathA 副詞(そのように)
+dhRtarASTraH 男性名詞dhRtarASTra(kaurava家の父)単数主格
+ciram 副詞(長い間)
+dhyAtvA 動詞dhyai(考える)絶対詞
+saMjayam 接頭辞sam(全き)-形容詞jaya(勝った)
+vAkyam 中性名詞vAkya(言葉)単数対格
+abravIt 動詞brU(言う)直説法過去能動態三人称単数
