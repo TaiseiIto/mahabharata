@@ -1301,3 +1301,19 @@ dhyAtvA 動詞dhyai(考える)絶対詞
 saMjayam 接頭辞sam(全き)-形容詞jaya(勝った)
 vAkyam 中性名詞vAkya(言葉)単数対格
 abravIt 動詞brU(言う)直説法過去能動態三人称単数
+
+96.zRNu saMjaya me sarvaM na me 'sUyitum arhasi zrutavAn asi medhAvI buddhimAn prAjJasaMmataH
+勝者よ聞け．全ては私のものではない．あなたは抗議する権利がある．あなたは知恵ある思考者である．
+zRNu 動詞zru(聞く)命令法能動態二人称単数
+saMjaya 接頭辞sam(全き)-形容詞jaya(勝った)単数呼格
+me 人称代名詞一人称単数属格付帯形
+sarvaM 形容詞sarva(全ての)
+na 不変辞(~でない)
+me 人称代名詞一人称単数属格付帯形
+asUyitum 形容詞asUya(不平を言う)動詞不定詞
+arhasi 動詞arh(権利がある)直説法現在能動態二人称単数
+zrutavAn 動詞zru(聞く)過去能動分詞男性単数主格
+asi 動詞as(ある)直説法現在能動態二人称単数
+medhAvI 形容詞medhAvin(知恵ある)男性単数主格
+buddhimAn 形容詞buddhimat(知恵を持つ)男性単数主格
+prajJasaMmataH 形容詞prajJa(知恵ある)-接頭辞sam(全き)-動詞man(考える)過去受動分詞男性単数主格
