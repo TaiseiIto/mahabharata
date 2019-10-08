@@ -1317,3 +1317,21 @@ asi 動詞as(ある)直説法現在能動態二人称単数
 medhAvI 形容詞medhAvin(知恵ある)男性単数主格
 buddhimAn 形容詞buddhimat(知恵を持つ)男性単数主格
 prajJasaMmataH 形容詞prajJa(知恵ある)-接頭辞sam(全き)-動詞man(考える)過去受動分詞男性単数主格
+
+97.na vigrahe mama matir na ca prIye kurukSaye na me vizeSaH putreSu sveSu pANDusuteSu ca
+私は争いを望まないし，クル族の滅亡も望まないし，私とパーンドゥの子たちの間には何の違いもない．
+na 不変辞(~ない)
+vigrahe 男性名詞vigraha(争い)単数処格
+mama 人称代名詞一人称単数属格
+matiH 女性名詞mati(処格に対する欲望)単数主格
+na 不変辞(~ない)
+ca 後置詞(~もまた)
+prIye 動詞prI(喜ぶ)直説法現在反射態一人称単数
+kurukSaye 男性名詞kuru-男性名詞kSaya(滅亡)単数処格
+na 不変辞(~ない)
+me 人称代名詞一人称単数属格付帯形
+vizeSaH 男性名詞vizeSa(違い)単数主格
+putreSu 男性名詞putra(息子)複数処格
+sveSu 形容詞sva(自身の)複数処格
+pANDusuteSu 男性名詞pANDu-動詞sU(産む)過去受動分詞男性複数処格
+ca 後置詞(~もまた)
