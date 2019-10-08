@@ -1319,7 +1319,7 @@ buddhimAn 形容詞buddhimat(知恵を持つ)男性単数主格
 prajJasaMmataH 形容詞prajJa(知恵ある)-接頭辞sam(全き)-動詞man(考える)過去受動分詞男性単数主格
 
 97.na vigrahe mama matir na ca prIye kurukSaye na me vizeSaH putreSu sveSu pANDusuteSu ca
-私は争いを望まないし，クル族の滅亡も望まないし，私とパーンドゥの子たちの間には何の違いもない．
+私は争いを望まないし，クル族の滅亡も望まないし，私の王子たちとパーンドゥの王子たちの間には何の違いもない．
 na 不変辞(~ない)
 vigrahe 男性名詞vigraha(争い)単数処格
 mama 人称代名詞一人称単数属格
@@ -1332,6 +1332,6 @@ na 不変辞(~ない)
 me 人称代名詞一人称単数属格付帯形
 vizeSaH 男性名詞vizeSa(違い)単数主格
 putreSu 男性名詞putra(息子)複数処格
-sveSu 形容詞sva(自身の)複数処格
+sveSu 形容詞sva(自身の)男性複数処格
 pANDusuteSu 男性名詞pANDu-動詞sU(産む)過去受動分詞男性複数処格
 ca 後置詞(~もまた)
