@@ -1335,3 +1335,24 @@ putreSu 男性名詞putra(息子)複数処格
 sveSu 形容詞sva(自身の)男性複数処格
 pANDusuteSu 男性名詞pANDu-動詞sU(産む)過去受動分詞男性複数処格
 ca 後置詞(~もまた)
+
+98.vRddhaM mAm abhyasUyanti putrA manyuparAyaNA ahaM tv acakSuH kArpaNyAt putraprItyA sahAmi tan muhyantaM cAnumuhyAmi duryodhanam acetanam
+栄えた私には最高の道を行ずる激情の王子たちが生まれた．だから私は王子への愛情によって貧困を耐えているが，私はまた無気力なドゥルヨーダナの混乱に混乱していると語った．
+vRddham 動詞vRdh(栄える)過去受動分詞男性単数対格
+mAm 人称代名詞一人称単数対格
+abhyasUyanti 動詞abhi-sU(産む)直説法過去受動態三人称複数
+putrAH 男性名詞putra(息子)複数主格
+manyuparAyaNAH 男性名詞manyu(激情)-形容詞para(最高の)-中性名詞ayana(行う)複数主格
+aham 人称代名詞一人称単数主格
+tu 不変辞(しこうして)
+acakSuH 動詞cakS(語る)直説法過去能動態三人称複数
+kArpaNyAt 中性名詞kArpaNya(貧困)単数従格
+putraprItyA 男性名詞putra(息子)-女性名詞prIti(愛情)単数具格
+sahAmi 動詞sah(耐える)直接能現在能動態一人称単数
+tat 人称代名詞三人称中性単数対格
+muhyantam 動詞muh(混乱する)現在能動分詞男性単数対格
+ca 後置詞(~もまた)
+anu 副詞(また)
+muhyAmi 動詞muh(混乱する)直説法現在能動態一人称単数
+duryodhanam 男性名詞duryodhana(kaurava家の長男)単数対格
+acetanam 接頭辞a(~ない)-形容詞cetana(活気ある)男性単数対格
