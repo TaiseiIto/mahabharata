@@ -1356,3 +1356,34 @@ anu 副詞(また)
 muhyAmi 動詞muh(混乱する)直説法現在能動態一人称単数
 duryodhanam 男性名詞duryodhana(kaurava家の長男)単数対格
 acetanam 接頭辞a(~ない)-形容詞cetana(活気ある)男性単数対格
+
+99.rAjasUye zriyaM dRSTvA pANDavasya mahaujasas tac cAvahasanaM prApya sabhArohaNa darzane
+即位式で力を誇るパーンダヴァ家の栄光と，奪還すべき宮廷で見ていた時のその嘲笑を見て，
+rAjasUye 男性名詞rAjasUya(即位式)単数処格
+zriyam 女性名詞zrI(栄光)単数対格
+dRSTvA 動詞dRz(見る)絶対詞
+pANDavasya 男性名詞pANDu所属形容詞男性単数属格
+mahaujasaH 接頭辞mahA(偉大な)-中性名詞ojas(力)単数属格
+tat 人称代名詞三人称中性単数対格
+ca 後置詞(~もまた)
+avahasana 接頭辞ava(下に)-中性名詞hasana(笑い)単数対格
+prApyasabhArohaNadarzane 動詞pra-Ap(到達する)未来受動分詞-女性名詞sabhA(宮廷)-形容詞darzana(見る)男性単数処格
+
+100.amarSitaH svayaM jetum azaktaH pANDavAn raNe nirutsAhaz ca saMprAptuM zriyam akSatriyo yathA gAndhArarAjasahitaz chadma dyUtam amantrayat
+許しがたいことに戦争でパーンダヴァ一族に勝つことができず，弱い者も栄光を得ることができず，クシャトリヤに属さないものも征服されたガーンダーラ王のように詐欺を告発しなかった．
+amarSitaH 接頭辞a(~ない)-動詞mRS(許す)過去受動分詞丹精単数主格
+svayam 副詞(自ら)
+jetum 動詞ji(勝つ)不定詞
+azaktaH 接頭辞a(~ない)-動詞zak(できる)過去受動分詞
+pANDavAn 男性名詞pANDu所有代名詞男性複数対格
+raNe 男性名詞raNa(戦争)単数処格
+nirutsAhaH 接頭辞nis(外へ)-接頭辞ud(上へ)-形容詞sAha(力強い)
+ca 後置詞(~もまた)
+saMprAptum 接頭辞sam(全く)-接頭辞pra(前に)-動詞Ap(到達する)不定詞
+zriyam 女性名詞zrI(栄光)単数対格
+akSatriyaH 接頭辞a(~ない)-形容詞kSatriya(武士階級の)単数主格
+yathA 関係接続詞(あたかも~のように)
+gAndhArarAjasahitaH 男性名詞gAndhAra-男性名詞rAjan(王)-動詞sah(征服する)過去受動分詞男性単数主格
+chadma 中性名詞chadman(詐欺)単数対格
+dyUtam 中性名詞dyUta(賭博)単数対格
+amantrayat 男性名詞mantra(言葉)派生動詞直説法過去能動態三人称単数
