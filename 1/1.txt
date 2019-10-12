@@ -1389,7 +1389,7 @@ dyUtam 中性名詞dyUta(賭博)単数対格
 amantrayat 男性名詞mantra(言葉)派生動詞直説法過去能動態三人称単数
 
 101.tatra yad yad yathA jJAtaM mayA saMjaya tac chRNu zrutvA hi mama vAkyAni buddhyA yuktAni tattvatas tat jJAsyasi mAM saute prajJA cakSuSam ity uta
-そこであたかも私に許されたものを征服するようにそれを聞け．悟りに繋がる私の言葉を聞いてあなたはそれを知るだろう．智慧が私を鼓舞するのだと．
+そこであたかも私に許されたものを征服するようにそれを聞け．悟りに繋がる私の言葉を聞いてあなたはそれを知るだろう．智慧が見識ある私を鼓舞するのだと．
 tatra 人称代名詞三人称処格
 yat 関係代名詞中性単数対格
 yat 関係代名詞中性単数対格
@@ -1404,13 +1404,13 @@ hi 副詞(実に)
 mama 人称代名詞一人称単数属格
 vAkyAni 中性名詞vAkya(言葉)複数対格
 buddhyA 女性名詞buddhi(智慧)単数具格
-yuktAni 動詞yuj(繋ぐ)過去受動分詞中性複数主格or対格
+yuktAni 動詞yuj(繋ぐ)過去受動分詞中性複数対格
 tattvataH 副詞(実に)
 tat 人称代名詞三人称中性単数対格
 jJAsyasi 動詞jJA(知る)直説法未来能動態二人称単数
 mAm 人称代名詞一人称単数対格
 saute 動詞sU(鼓舞する)直説法現在反射態三人称単数
 prajJA 女性名詞prajJA(智慧)単数主格
-cakSuSam 形容詞cakSus(見る)女性単数対格
+cakSuSam 形容詞cakSus(見る)男性単数対格
 iti 接続詞(~であると)
 uta 不変辞(而して)
