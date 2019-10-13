@@ -1414,3 +1414,24 @@ prajJA 女性名詞prajJA(智慧)単数主格
 cakSuSam 形容詞cakSus(見る)男性単数対格
 iti 接続詞(~であると)
 uta 不変辞(而して)
+
+102.yadAzrauSaM dhanur AyamyacitraM viddhaM lakSyaM pAtitaM vai pRthivyAM kRSNAM hRtAM pazyatAM sarvarAjJAM tadA nAzaMse vijayAya saMjaya
+与えられて大地に落とされ，盗もうと狙う黒い全ての王たちに狙われるであろう弓の引き絞られる音を私が聞いたなら，私は勝利を望まない．あなたが勝ちなさい．
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+dhanuH 中性名詞dhanus(弓)単数対格
+Ayamyacitram 動詞A-yam(弓を引く)未来受動分詞-形容詞citra(輝く)中性単数対格
+viddham 動詞vidh(贈与する)過去受動分詞中性単数対格
+lakSyam 動詞lakS(注目する)未来受動分詞中性単数対格
+pAtitam 動詞pat(落ちる)使役過去受動分詞中性単数対格
+vai 先行の語を強調する後置詞
+pRthivyAM 女性名詞pRthivI(大地)単数処格
+kRSNAm 形容詞kRSNa(黒い)男性複数属格
+hRtAm 形容詞hRt(盗む)男性複数属格
+pazyatAm 動詞paz(見る)現在能動分詞男性複数属格
+sarvarAjJAm 形容詞sarva(全ての)-男性名詞rAj(王)複数属格
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 接頭辞sam(全く)-動詞ji(勝つ)命令法能動態二人称単数
