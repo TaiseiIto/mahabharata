@@ -1435,3 +1435,20 @@ na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+103.yadAzrauSaM dvArakAyAM subhadrAM prasahyoDhAM mAdhavIm arjunena indraprasthaM vRSNivIrau ca yAtau tadA nAzaMse vijayAya saMjaya
+ドヴァーラカーでマドゥ族のスバードラーがアルジュナの妻となり，インドラプラスタに二人の雄々しい英雄が到着するのを私が聞いたなら，私は勝利を望まない．サンジャヤよ．
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+dvArakAyAm 女性名詞dvArakA(都市名)単数処格
+subhadrAm 女性名詞subhadrA(kRSNaの妹でarjunaの妻)単数対格
+prasahyoDhAm 動詞pra-sah(征服する)未来受動分詞-女性名詞UDhA(妻)単数対格
+mAdhavIm 男性名詞madhu(cAkSuSa manu時代の七聖仙の一人)所属形容詞女性単数対格
+arjunena 男性名詞arjuna(pANDava家の三男)単数具格
+indraprastham 男性名詞indraprastha(kuru国の首都)単数対格
+vRSNivIrau 形容詞(雄々しい)-男性名詞vIra(英雄)双数対格
+yAtau 動詞yA(前進する)過去受動分詞男性双数対格
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
