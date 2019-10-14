@@ -1416,7 +1416,7 @@ iti 接続詞(~であると)
 uta 不変辞(而して)
 
 102.yadAzrauSaM dhanur AyamyacitraM viddhaM lakSyaM pAtitaM vai pRthivyAM kRSNAM hRtAM pazyatAM sarvarAjJAM tadA nAzaMse vijayAya saMjaya
-与えられて大地に落とされ，盗もうと狙う黒い全ての王たちに狙われるであろう弓の引き絞られる音を私が聞いたなら，私は勝利を望まない．サンジャヤよ．
+与えられて大地に落とされ，盗もうと狙う黒い全ての王たちに狙われるであろう弓の引き絞られる音を私が聞いたなら，私は勝利を望めない．サンジャヤよ．
 yadA 接続詞(~である時は)
 azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
 dhanuH 中性名詞dhanus(弓)単数対格
@@ -1437,7 +1437,7 @@ vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
 
 103.yadAzrauSaM dvArakAyAM subhadrAM prasahyoDhAM mAdhavIm arjunena indraprasthaM vRSNivIrau ca yAtau tadA nAzaMse vijayAya saMjaya
-ドヴァーラカーでマドゥ族のスバードラーがアルジュナの妻となり，インドラプラスタに二人の雄々しい英雄が到着するのを私が聞いたなら，私は勝利を望まない．サンジャヤよ．
+ドヴァーラカーでマドゥ族のスバードラーがアルジュナの妻となり，インドラプラスタに二人の雄々しい英雄が到着するのを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
 yadA 接続詞(~である時は)
 azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
 dvArakAyAm 女性名詞dvArakA(都市名)単数処格
