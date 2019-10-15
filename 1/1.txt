@@ -1448,6 +1448,29 @@ arjunena 男性名詞arjuna(pANDava家の三男)単数具格
 indraprastham 男性名詞indraprastha(kuru国の首都)単数対格
 vRSNivIrau 形容詞(雄々しい)-男性名詞vIra(英雄)双数対格
 yAtau 動詞yA(前進する)過去受動分詞男性双数対格
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+104.yadAzrauSaM devarAjaM pravRSTaM  zarair divyair vAritaM cArjunenAgniM tathA tarpitaM khANDave ca tadA nAzaMse vijayAya saMjaya
+天上の矢を放って雨を降らせる神の王がアルジュナによって隠され，炎がカーンダヴァの林を焼き尽くしたのを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+devarAjam 男性名詞deva-rAja(神の王)単数対格
+pravRSTam 動詞pra-vRS(雨を降らせる)過去受動分詞男性単数対格
+zaraiH 男性名詞zara(矢)複数具格
+divyaiH 形容詞divya(天上の)男性複数具格
+vAritam 動詞vR(隠す)過去受動分詞男性単数対格
+ca 後置詞(~もまた)
+arjunena 男性名詞arjuna(pANDava家の三男)単数具格
+agnim 男性名詞agni(火)単数対格
+tathA 副詞(そのように)
+tarpitam 動詞tRp(満足する)過去受動分詞男性単数対格
+khANDave 男性名詞khANDava(kurukSetraにある林の名)単数処格
+ca 後置詞(~もまた)
+tadA 副詞(その時)
 na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
