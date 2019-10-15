@@ -1437,7 +1437,7 @@ vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
 
 103.yadAzrauSaM dvArakAyAM subhadrAM prasahyoDhAM mAdhavIm arjunena indraprasthaM vRSNivIrau ca yAtau tadA nAzaMse vijayAya saMjaya
-ドヴァーラカーでマドゥ族のスバードラーがアルジュナの妻となり，インドラプラスタに二人の雄々しい英雄が到着するのを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
+ドヴァーラカーでマドゥ族のスバドラーがアルジュナの妻となり，インドラプラスタに二人の雄々しい英雄が到着するのを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
 yadA 接続詞(~である時は)
 azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
 dvArakAyAm 女性名詞dvArakA(都市名)単数処格
