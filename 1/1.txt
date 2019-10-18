@@ -1516,6 +1516,7 @@ saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
 107.yadAzrauSaM vividhAs tAta ceSTA dharmAtmanAM prasthitAnAM vanAya jyeSThaprItyA klizyatAM pANDavAnAM tadA nAzaMse vijayAya saMjaya
 正義のために立ち上がった者たちの様々な行いを，私を悩ませるパーンダヴァ家の者たちの森を巡った戦争の勝利の喜びによって彼らの様々な行いを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
 yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
 vividhAH 形容詞vividha(いろいろな)女性複数対格
 tAta 男性名詞tAta(親愛なるもの)単数呼格
 ceSTAH 女性名詞ceSTA(行)複数対格
@@ -1525,7 +1526,6 @@ vanAya 中性名詞vana(森)単数為格
 jyeSThaprItyA 動詞ji(勝つ)最上級-女性名詞prIti(喜び)単数具格
 klizyatAm 動詞kliz(苦しむ)現在能動分詞男性複数属格
 pANDavAnAm 男性名詞pANDu(pANDava五王子の父)所属形容詞男性複数属格
-azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
 tadA 副詞(その時)
 na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
