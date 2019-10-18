@@ -1495,7 +1495,7 @@ vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
 
 106.yadAzrauSaM draupadIm azrukaNThIM sabhAM nItAM duHkhitAm ekavastrAM rajasvalAM nAthavatIm anAthavat tadA nAzaMse vijayAya saMjaya
-ドラウパディーの涙の首が宮廷に連れられ，一つの衣服を身につけた既婚の彼女が夫を失えば，私は勝利を望めない．サンジャヤよ．
+ドラウパディーの涙の首が宮廷に連れられ，一つの衣服を身につけた既婚の彼女が夫を失ったと私が聞いたなら，私は勝利を望めない．サンジャヤよ．
 yadA 接続詞(~である時は)
 azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
 draupadIm 女性名詞draupadI(drupadaの娘でpANDava五王子の妻)
@@ -1507,6 +1507,25 @@ evavastrAm 形容詞eka(1つの)-中性名詞vastra(衣服)派生形容詞女性
 rajasvalAm 女性名詞rajasvalA(月経のある女)単数対格
 nAthavatIm 中性名詞nAtha(主人)所有形容詞女性単数対格
 anAthavat 接頭辞a(~でない)-中性名詞nAtha(主人)所有形容詞中性単数
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+107.yadAzrauSaM vividhAs tAta ceSTA dharmAtmanAM prasthitAnAM vanAya jyeSThaprItyA klizyatAM pANDavAnAM tadA nAzaMse vijayAya saMjaya
+正義のために立ち上がった者たちの様々な行いを，私を悩ませるパーンダヴァ家の者たちの森を巡った戦争の勝利の喜びによって彼らの様々な行いを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
+yadA 接続詞(~である時は)
+vividhAH 形容詞vividha(いろいろな)女性複数対格
+tAta 男性名詞tAta(親愛なるもの)単数呼格
+ceSTAH 女性名詞ceSTA(行)複数対格
+dharmAtmanAm 形容詞dharmAtman(正義の)男性複数属格
+prasthitAnAm 動詞pra-sthA(立ち上がる)過去受動分詞男性複数属格
+vanAya 中性名詞vana(森)単数為格
+jyeSThaprItyA 動詞ji(勝つ)最上級-女性名詞prIti(喜び)単数具格
+klizyatAm 動詞kliz(苦しむ)現在能動分詞男性複数属格
+pANDavAnAm 男性名詞pANDu(pANDava五王子の父)所属形容詞男性複数属格
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
 tadA 副詞(その時)
 na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
