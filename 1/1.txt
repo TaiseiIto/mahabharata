@@ -1531,3 +1531,22 @@ na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+108.yadAzrauSaM snAtakAnAM sahasrair anvAgataM dharmarAjaM vanasthaM bhikSAbhujAM brAhmaNAnAM mahAtmanAM tadA nAzaMse vijayAya saMjaya
+家住期に物乞いする偉大なバラモンたちの森に住む正義の王が千人に攻められたのを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+snAtakaAnAM 動詞snA(沐浴する)過去受動分詞派生形容詞(学生期の終わりに沐浴の儀式を終えて家住期に入った者)男性複数属格
+sahasraiH 数詞sahasra(千の)男性複数具格
+anvAgatam 動詞anu-A-gam(攻める)過去受動分詞男性単数対格
+dharmarAjam 中性名詞dharma(正義)-男性名詞rAja(王)男性単数対格
+vanastham 中性名詞vana(森)-動詞sthA(住む)派生男性名詞単数対格
+bhikSAbhujAm 動詞bhikS(乞う)派生女性名詞-動詞bhuj(食べる)派生形容詞男性複数属格
+brAhmaNAnAm 男性名詞brahman(梵天)所属形容詞男性複数属格
+mahAtmanAm 接頭辞mahA(偉大な)-男性名詞Atman(魂)複数属格
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
