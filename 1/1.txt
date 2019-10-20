@@ -1550,3 +1550,21 @@ AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
 
+109.yadAzrauSam arjuno devadevaM kirAtarUpaM tryambakaM toSyayuddhe avApa tat pAzupataM mahAstraM tadA nAzaMse vijayAya saMjaya
+アルジュナが鎮められるべき戦争において蛮族の姿の三つの目を持つ神の中の神，生きとし生けるものを従える神の偉大な矢を手に入れたのを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+arjunaH 男性名詞arjuna(pANDava家の三男)単数主格
+devadevam 男性名詞devadeva(神の中の神)単数対格
+kirAtarUpam 男性名詞kirAta(蛮族)-中性名詞rUpa(形)単数対格
+tryambakam 数詞tri(3つの)-中性名詞ambaka(眼)単数対格
+toSyayuddhe 動詞tuS(鎮まる)未来受動分詞-動詞yudh(戦う)過去受動分詞中性単数処格
+avApa 動詞ava-Ap(成し遂げる)完了能動態三人称単数
+tat 人称代名詞三人称中性単数対格
+pAzupatam 男性名詞pazu(家畜)-男性名詞pati(主)所属形容詞中性単数対格
+mahAstram 接頭辞mahA(偉大な)-中性名詞astra(矢)単数対格
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
