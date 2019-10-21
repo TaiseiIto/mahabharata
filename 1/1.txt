@@ -1568,3 +1568,23 @@ na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+110.yadAzrauSaM tridivasthaM dhanaMjayaM zakrAt sAkSAd divyam astraM yathAvad adhIyAnaM zaMsitaM satyasaMdhaM tadA nAzaMse vijayAya saMjaya
+第三天に立つ男が富を勝ち得て無敵の天の矢を修得し，忠実な男として称賛されているのを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+tridivastham 数詞tri(3)-中性名詞diva(天)-動詞sthA(立つ)派生形容詞男性単数対格
+dhanaMjayam 中性名詞dhana(富)-動詞ji(勝つ)派生形容詞男性単数対格
+zakrAt 形容詞zakra(強い)男性単数従格
+sAkSAt 名詞sAkSa単数従格(明かに)
+divyam 形容詞divya(天上の)中性単数対格
+astram 中性名詞astra(矢)単数対格
+yathAvat 副詞(正しく)
+adhIyAnam 動詞adhi-i(学ぶ)現在反射分詞男性単数対格
+zaMsitam 動詞zaMs(称賛する)過去受動分詞男性単数対格
+satyasaMdham 形容詞satyasaMdha(忠実な)
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
