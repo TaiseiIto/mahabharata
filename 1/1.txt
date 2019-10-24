@@ -1608,3 +1608,23 @@ na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+112.yadAzrauSaM ghoSayAtrAgatAnAM bandhaM gandharvair mokSaNaM cArjunena sveSAM sutAnAM karNabuddhau ratAnAM tadA nAzaMse vijayAya saMjaya
+ガンダルヴァたちとアルジュナによって牧場を行く牛たちの繋ぎが外され，王子たちがカルナの2つの目覚めを喜んだのを私が聞いたなら，私は勝利を望めない．サンジャヤよ．
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+ghoSayAtrAgatAnAm 男性名詞ghoSa(牧場)-女性名詞yAtrA(行列)-動詞gam(行く)過去受動分詞男性複数属格
+bandham 男性名詞bandha(繋ぎ)単数対格
+gandharvaiH 男性名詞gandharva(天上の楽師)複数具格
+mokSaNam 形容詞mokSaNa(解放する)男性単数対格
+ca 後置詞(~もまた)
+arjunena 男性名詞arjuna(pANDava家の三男)単数具格
+sveSAm 形容詞sva(自身の)男性複数属格
+sutAnAm 動詞sU(産む)過去受動分詞男性複数属格
+karNabuddhau 男性名詞karNa(SuryaとkuntIの子でkaurava軍の英雄)-動詞budh(目覚める)過去受動分詞男性双数対格
+ratAnAm 動詞ram(喜ぶ)過去受動分詞男性複数属格
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
