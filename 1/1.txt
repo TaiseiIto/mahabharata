@@ -1628,3 +1628,23 @@ na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+113.yadAzrauSaM yakSarUpeNa dharmaM samAgataM dharmarAjena sUta praznAn uktAn vibruvantaM ca samyak tadA nAzaMse vijayAya saMjaya
+夜叉の姿と共に,法の王と共にいる法が,詩人よ,質問に対して真実を答えるのを私が聞いたなら,私は勝利を望めない.サンジャヤよ.
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+yakSarUpena 中性名詞yakSa(夜叉)-中性名詞rUpa(像)単数具格
+dharmam 中性名詞dharma(法)単数対格
+samAgatam 動詞sam-A-gam(具格と共に来る)過去受動分詞男性単数対格
+dharmarAjena 中性名詞dharma(法)-男性名詞rAja(王)単数具格
+sUta 動詞sU(鼓舞する)過去受動分詞男性単数呼格
+praznAn 男性名詞prazna(問い)複数対格
+uktAn 動詞vac(言う)過去受動分詞男性複数対格
+vibruvantam 動詞vi-brU(答える)現在能動分詞男性単数対格
+ca 後置詞(~もまた)
+samyak 副詞(正しく)
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
