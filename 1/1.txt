@@ -1687,3 +1687,21 @@ na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+116.yadAzrauSaM nirjitasyAdhanasya pravrAjitasya svajanAt pracyutasyAkSauhiNIH sapta yudhiSTHirasya tadA nAzaMse vijayAya saMjaya
+征服され,出家し,親族を奪還した貧しいユディシュティラの7つの軍隊のことを私が聞いたなら,私は勝利を望めない.サンジャヤよ.
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+nirjitasya 動詞nis-ji(征服する)過去受動分詞男性単数属格
+adhanasya 否定接頭辞a-中性名詞dhana(財宝)形容詞男性単数属格
+pravrAjitasya 動詞pra-vraj(出家する)過去受動分詞男性単数属格
+svajanAt 男性名詞svajana(親族)単数従格
+pracyutasya 動詞pra-cyu(従を奪還する)過去受動分詞男性単数属格
+akSauhiNIH 女性名詞akSauhinI(軍隊)単数主格
+sapta 数詞(7)
+yudhiSTHirasya 男性名詞yudhiSTHira単数属格
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
