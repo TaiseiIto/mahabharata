@@ -1650,7 +1650,7 @@ vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
 
 114.yadAzrauSaM mAmakAnAM variSTHAn dhanaMjayenaika rathena bhagnAn virATa rASTre vasatA mahAtmanA tadA nAzaMse vijayAya saMjaya
-我らの最も広大な(国土?)が,偉大な霊魂を持つとある勝利の戦士によってヴィラータの王国で破られたのを私が聞いたなら,私は勝利を望めない.サンジャヤよ.
+我らの最も広大な(国土?)が,偉大な霊魂を持つあの勝利の戦士によってヴィラータの王国で破られたのを私が聞いたなら,私は勝利を望めない.サンジャヤよ.
 yadA 接続詞(~である時は)
 azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
 mAmakAnAm 形容詞mAmaka(私の)男性複数属格
@@ -1661,6 +1661,27 @@ bhagnAn 動詞bhaJj(破る)過去受動分詞男性複数対格
 virATarASTre 男性名詞virATa(Matsya族の王の名)-中性名詞rASTra(王国)単数処格
 vasatA 動詞vas(ある)現在能動分詞男性単数具格
 mahAtmanA 形容詞mahA(大きな)-男性名詞Atman(霊魂)単数具格
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+115.yadAzrauSaM satkRtAM matsyarAjJA sutAM dattAm uttarAm arjunAya tAM cArjunaH pratyagRhNAt sutArthe tadA nAzaMse vijayAya saMjaya
+マツヤ族の王に敬われ,鼓舞され,与えられたあのよき(国土?)すら,アルジュナに占有されてしまったと私が聞いたなら,私は勝利を望めない.サンジャヤよ.
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+satkRtAm 動詞sat-kR(敬う)過去受動分詞女性単数対格
+matsyarAjJA 男性名詞matsya(部族の名)-男性名詞rAjan(王)単数具格
+sutAm 動詞sU(鼓舞する)過去受動分詞女性単数対格
+dattAm 動詞dA(与える)過去受動分詞女性単数対格
+uttarAm 接頭辞ud(上に)比較級女性単数対格
+arjunAya 男性名詞arjuna単数為格
+tAm 人称代名詞三人称女性単数対格
+ca 後置詞(~もまた)
+arjunaH 男性名詞arjuna単数主格
+pratyagRhNAt 動詞prati-grah(占有する)直接法過去能動態三人称単数
+sutArthe 動詞sU(産む)過去受動分詞-男性名詞artha(目的)単数処格(息子のために)
 tadA 副詞(その時)
 na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
