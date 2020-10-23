@@ -1705,3 +1705,23 @@ na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+117.yadAzrauSaM naranArAyaNau tau kRSNArjunau vadato nAradasyAhaM draSTA brahmaloke sadeti tadA nAzaMse vijayAya saMjaya
+ナラナーラーヤナとクリシュナールジュナがナーラダに私が見ることを常に神界で話していることを聞いたら,私は勝利を望めない.サンジャヤよ.
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+naranArAyaNau 男性名詞nara(人)-男性名詞nArAyaNa双数主格
+tau 人称代名詞三人称男性双数主格
+kRSNArjunau 男性名詞kRSNa-男性名詞arjuna双数主格
+vadataH 動詞vad(属に話す)直接法現在能動態三人称双数
+nAradasya 男性名詞nArada単数属格
+aham 人称代名詞一人称単数主格
+draSTA 動詞dRz(見る)行為者男性単数主格
+brahmaloke 男性名詞brahman-男性名詞lola(世界)単数処格
+sadA 副詞(いつも)
+iti 副詞(の如く)
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
