@@ -1725,3 +1725,24 @@ na 不変辞(~ない)
 AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
 vijayAya 男性名詞vijaya(勝利)単数為格
 saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
+
+118.yadAzrauSaM mAdhavaM vAsudevaM sarvAtmanA pANDavArthe niviSTaM yasyemAM gAM vikramam ekam Ahus tadA nAzaMse vijayAya saMjaya
+マドゥ族のヴァースデーヴァが全身全霊でパーンダヴァのために働いたことを彼らがいってしまったことを聞いたら,私は勝利を望めない.サンジャヤよ.
+yadA 接続詞(~である時は)
+azrauSam 動詞zru(聞く)アオリスト能動態一人称単数
+mAdhavam 男性名詞madhu所属形容詞男性単数対格
+vAsudevam 男性名詞vAsudeva単数対格
+sarvAtmanA 形容詞sarva(全ての)-男性名詞Atman(魂)単数具格
+pANDAvArthe 男性名詞pANDava-男性名詞artha(利)単数処格
+niviSTam 動詞ni-viz(献身する)過去受動分詞男性単数対格
+yasya 関係代名詞男性単数属格
+imAm 代名詞idam(これ)女性関数具格
+gAm tAmの間違い?
+vikramam 男性名詞vikrama(闊歩)単数対格
+ekam 数詞(1)男性単数対格
+AhuH 動詞ah(言う)完了能動態三人称複数
+tadA 副詞(その時)
+na 不変辞(~ない)
+AzaMse 動詞A-zaMs(望む)直説法現在反射態一人称単数
+vijayAya 男性名詞vijaya(勝利)単数為格
+saMjaya 男性名詞saMjaya(dhRtarASTraの御者)単数呼格
